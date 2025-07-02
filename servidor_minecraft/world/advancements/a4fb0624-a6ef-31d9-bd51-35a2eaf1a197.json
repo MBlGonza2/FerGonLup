@@ -4938,15 +4938,153 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-02 19:06:49 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/hamburger_with_egg": {
+    "criteria": {
+      "has_beef_patty": "2025-07-02 19:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-02 19:06:49 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/glass_spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-02 19:07:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-07-02 19:04:41 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-07-02 19:12:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-02 19:07:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "has_string": "2025-07-02 19:06:49 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/simple_hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-07-02 19:12:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-07-02 19:04:41 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_drawer": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-02 19:07:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-07-02 19:06:49 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_drawer_with_door": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-02 19:07:00 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_single_door_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-02 19:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-02 19:06:49 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_cabinet_with_glass_doors": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-02 19:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-02 19:06:49 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_drawer_with_books": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-02 19:07:00 +0000"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/food/hamburger_with_cheese": {
+    "criteria": {
+      "has_beef_patty": "2025-07-02 19:12:02 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/small_spruce_drawers": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-02 19:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-02 19:06:49 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_bookshelf_with_door": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-02 19:07:00 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/rain_collector": {
+    "criteria": {
+      "has_string": "2025-07-02 19:06:49 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/loaded_hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-07-02 19:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-02 19:06:49 +0000"
     },
     "done": true
   },
