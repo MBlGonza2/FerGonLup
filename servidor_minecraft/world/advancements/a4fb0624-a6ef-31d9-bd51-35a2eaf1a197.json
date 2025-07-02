@@ -3780,9 +3780,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-07-02 02:45:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_crate": {
     "criteria": {
       "has_birch_planks": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-02 02:43:51 +0000"
     },
     "done": true
   },
@@ -3879,6 +3891,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-07-02 02:00:41 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_water_bucket": "2025-07-02 02:47:08 +0000"
     },
     "done": true
   },
@@ -4050,6 +4068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-02 02:43:51 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_side_table": {
     "criteria": {
       "has_birch_side_table": "2025-07-02 02:25:47 +0000"
@@ -4110,6 +4134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-02 02:47:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough": {
     "criteria": {
       "has_wheat": "2025-07-02 02:27:28 +0000"
@@ -4128,9 +4158,27 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2025-07-02 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_with_egg": {
+    "criteria": {
+      "has_fried_egg": "2025-07-02 02:45:38 +0000"
+    },
+    "done": true
+  },
   "frightsdelight:recipes/food/cookie_slimeapple": {
     "criteria": {
       "has_wheat": "2025-07-02 02:27:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-07-02 02:47:08 +0000"
     },
     "done": true
   },
@@ -4188,6 +4236,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bread_from_smelting": {
+    "criteria": {
+      "has_dough": "2025-07-02 02:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-07-02 02:00:41 +0000"
@@ -4209,6 +4263,12 @@
   "handcrafted:recipes/misc/birch_couch": {
     "criteria": {
       "has_birch_couch": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-02 02:43:51 +0000"
     },
     "done": true
   },
@@ -4290,9 +4350,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2025-07-02 02:47:47 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_dining_bench": {
     "criteria": {
       "has_birch_dining_bench": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-07-02 02:47:08 +0000"
     },
     "done": true
   },
@@ -4335,6 +4407,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_table": {
     "criteria": {
       "has_birch_planks": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-07-02 02:47:08 +0000"
     },
     "done": true
   },
@@ -4449,6 +4527,12 @@
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2025-07-02 02:27:28 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/egg_with_bacon_sandwich": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 02:45:38 +0000"
     },
     "done": true
   },
