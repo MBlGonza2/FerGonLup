@@ -3762,6 +3762,12 @@
     },
     "done": true
   },
+  "cratedelight:recipes/building_blocks/golden_apple_crate": {
+    "criteria": {
+      "has_golden_apple": "2025-07-02 03:56:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-07-02 02:00:41 +0000"
@@ -3929,6 +3935,12 @@
       "has_planks": "2025-07-02 02:25:47 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:witch": "2025-07-02 03:53:52 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -4618,6 +4630,12 @@
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-07-02 01:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:witch": "2025-07-02 03:53:52 +0000"
     },
     "done": true
   },

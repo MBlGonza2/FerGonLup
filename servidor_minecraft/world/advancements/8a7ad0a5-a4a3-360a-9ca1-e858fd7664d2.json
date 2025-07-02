@@ -5063,15 +5063,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-07-02 04:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-02 04:00:38 +0000"
+    },
+    "done": true
+  },
   "storagedelight:recipes/decorations/birch_cabinet_with_glass_doors": {
     "criteria": {
       "has_birch_trapdoor": "2025-07-02 03:34:43 +0000"
     },
     "done": true
   },
+  "frightsdelight:recipes/food/cookie_spidereye": {
+    "criteria": {
+      "has_wheat": "2025-07-02 04:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-02 03:22:04 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/beetroot_bag": {
+    "criteria": {
+      "has_beetroots": "2025-07-02 04:00:38 +0000"
     },
     "done": true
   },
@@ -5084,6 +5108,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-02 03:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-02 03:59:02 +0000"
     },
     "done": true
   },
@@ -5105,6 +5135,36 @@
     },
     "done": true
   },
+  "toughasnails:recipes/food/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-07-02 04:00:39 +0000"
+    },
+    "done": true
+  },
+  "frightsdelight:recipes/food/cookie_wither_berry": {
+    "criteria": {
+      "has_wheat": "2025-07-02 04:00:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-02 03:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-02 04:00:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-02 04:00:16 +0000"
+    },
+    "done": true
+  },
   "storagedelight:recipes/decorations/glass_spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-07-02 03:33:20 +0000"
@@ -5114,6 +5174,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-02 03:22:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-02 04:00:39 +0000"
     },
     "done": true
   },
@@ -5165,6 +5231,12 @@
     },
     "done": true
   },
+  "cratedelight:recipes/building_blocks/apple_crate": {
+    "criteria": {
+      "has_apple": "2025-07-02 04:00:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-02 03:18:54 +0000"
@@ -5174,6 +5246,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-02 03:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-07-02 04:00:38 +0000"
     },
     "done": true
   },
@@ -5195,9 +5273,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-07-02 03:59:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-07-02 04:00:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-02 04:00:38 +0000"
+    },
+    "done": true
+  },
   "moredelight:recipes/food/toast_with_egg": {
     "criteria": {
       "has_fried_egg": "2025-07-02 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "frightsdelight:recipes/food/cookie_slimeapple": {
+    "criteria": {
+      "has_wheat": "2025-07-02 04:00:16 +0000"
     },
     "done": true
   },
@@ -5207,15 +5309,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-07-02 04:00:16 +0000"
+    },
+    "done": true
+  },
   "storagedelight:recipes/decorations/spruce_drawer": {
     "criteria": {
       "has_spruce_trapdoor": "2025-07-02 03:33:20 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-02 03:53:52 +0000"
+    },
+    "done": true
+  },
   "cratedelight:recipes/building_blocks/gunpowder_bag": {
     "criteria": {
       "has_gunpowder": "2025-07-02 03:48:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-07-02 03:59:02 +0000"
     },
     "done": true
   },
@@ -5261,6 +5381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-02 03:59:02 +0000"
+    },
+    "done": true
+  },
   "storagedelight:recipes/decorations/spruce_single_door_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-07-02 03:33:20 +0000"
@@ -5282,6 +5408,12 @@
   "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-07-02 03:21:14 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandwich": {
+    "criteria": {
+      "has_bread": "2025-07-02 03:59:02 +0000"
     },
     "done": true
   },
@@ -5333,6 +5465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-02 03:59:02 +0000"
+    },
+    "done": true
+  },
   "storagedelight:recipes/decorations/birch_drawer_with_books": {
     "criteria": {
       "has_birch_trapdoor": "2025-07-02 03:34:43 +0000"
@@ -5354,6 +5492,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-02 03:18:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-07-02 04:00:16 +0000"
     },
     "done": true
   },
@@ -5393,6 +5537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-02 04:00:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-02 03:22:04 +0000"
@@ -5411,9 +5561,21 @@
     },
     "done": true
   },
+  "frightsdelight:recipes/food/cookie_soul_berry": {
+    "criteria": {
+      "has_wheat": "2025-07-02 04:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-02 03:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-02 04:00:04 +0000"
     },
     "done": true
   },
@@ -5441,9 +5603,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-07-02 04:00:35 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2025-07-02 03:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-02 03:53:52 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-02 04:00:08 +0000"
     },
     "done": true
   },
@@ -5480,6 +5660,12 @@
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-02 03:26:04 +0000"
+    },
+    "done": true
+  },
+  "frightsdelight:recipes/food/cookie_ghast_tear": {
+    "criteria": {
+      "has_wheat": "2025-07-02 04:00:16 +0000"
     },
     "done": true
   },
