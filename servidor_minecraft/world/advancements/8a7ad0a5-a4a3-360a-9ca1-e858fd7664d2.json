@@ -691,6 +691,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-02 03:22:15 +0000",
+      "minecraft:vindicator": "2025-07-02 04:02:49 +0000",
       "minecraft:husk": "2025-07-02 00:47:21 +0000",
       "minecraft:cave_spider": "2025-07-02 03:24:13 +0000",
       "minecraft:silverfish": "2025-07-02 03:02:30 +0000",
@@ -4735,7 +4736,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "glow_berries": "2025-07-02 02:20:11 +0000"
+      "glow_berries": "2025-07-02 02:20:11 +0000",
+      "wheat": "2025-07-02 04:06:05 +0000"
     },
     "done": false
   },
@@ -5078,6 +5080,12 @@
   "storagedelight:recipes/decorations/birch_cabinet_with_glass_doors": {
     "criteria": {
       "has_birch_trapdoor": "2025-07-02 03:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-07-02 04:01:23 +0000"
     },
     "done": true
   },
@@ -5591,6 +5599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-02 04:01:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-07-02 03:21:14 +0000"
@@ -5636,6 +5650,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-02 03:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-02 04:06:05 +0000"
     },
     "done": true
   },

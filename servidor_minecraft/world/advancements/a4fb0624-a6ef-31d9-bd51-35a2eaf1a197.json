@@ -3834,6 +3834,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-07-02 04:05:19 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/carrot_bag": {
     "criteria": {
       "has_carrot": "2025-07-02 01:53:33 +0000"
@@ -3849,6 +3855,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
     "criteria": {
       "has_birch_planks": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-02 04:05:54 +0000"
     },
     "done": true
   },
@@ -3918,6 +3930,12 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/beetroot_bag": {
+    "criteria": {
+      "has_beetroots": "2025-07-02 04:05:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-07-02 03:06:21 +0000"
@@ -3954,6 +3972,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_result": "2025-07-02 04:05:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-02 02:25:47 +0000"
@@ -3963,6 +3987,12 @@
   "handcrafted:recipes/misc/birch_table": {
     "criteria": {
       "has_birch_table": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-07-02 04:05:58 +0000"
     },
     "done": true
   },
@@ -4017,6 +4047,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-07-02 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-02 04:05:58 +0000"
     },
     "done": true
   },
@@ -4075,6 +4111,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/potato_salad": {
+    "criteria": {
+      "has_potato": "2025-07-02 04:05:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-07-02 02:00:41 +0000"
@@ -4105,6 +4147,12 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/potato_bag": {
+    "criteria": {
+      "has_potato": "2025-07-02 04:05:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-07-02 02:07:00 +0000"
@@ -4117,6 +4165,12 @@
     },
     "done": true
   },
+  "cratedelight:recipes/building_blocks/apple_crate": {
+    "criteria": {
+      "has_apple": "2025-07-02 04:05:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/beef_patty": {
     "criteria": {
       "beef_patty": "2025-07-02 03:02:19 +0000"
@@ -4126,6 +4180,12 @@
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2025-07-02 01:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-07-02 04:05:54 +0000"
     },
     "done": true
   },
@@ -4144,6 +4204,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-07-02 02:00:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_result": "2025-07-02 04:05:19 +0000"
     },
     "done": true
   },
@@ -4213,6 +4279,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-02 04:05:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-07-02 02:00:41 +0000"
@@ -4258,6 +4330,12 @@
   "handcrafted:recipes/misc/birch_corner_trim": {
     "criteria": {
       "has_birch_corner_trim": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_slime": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 04:05:58 +0000"
     },
     "done": true
   },
@@ -4351,6 +4429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-02 04:05:40 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_couch": {
     "criteria": {
       "has_birch_couch": "2025-07-02 02:25:47 +0000"
@@ -4378,6 +4462,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-07-02 02:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-02 04:05:40 +0000"
     },
     "done": true
   },
@@ -4573,6 +4663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-02 04:05:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-07-02 02:51:30 +0000"
@@ -4630,6 +4726,12 @@
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-07-02 01:53:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-07-02 04:05:19 +0000"
     },
     "done": true
   },
