@@ -1,0 +1,5 @@
+{
+  "torchBurnOutTime": 36000,
+  "submergeInWaterUnlitTorchesInInventory": true,
+  "rainExtinguishTorches": true
+}

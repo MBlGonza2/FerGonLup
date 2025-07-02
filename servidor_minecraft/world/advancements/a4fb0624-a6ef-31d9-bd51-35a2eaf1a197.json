@@ -1,0 +1,33 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-07-02 00:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-07-02 00:26:06 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2025-07-02 00:24:22 +0000"
+    },
+    "done": true
+  },
+  "trailandtales_delight:tat_delight": {
+    "criteria": {
+      "trail_and_tales": "2025-07-02 00:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-07-02 00:25:50 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
