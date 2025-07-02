@@ -4064,6 +4064,10 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "onion": "2025-07-02 04:18:42 +0000",
+      "beetroot": "2025-07-02 04:19:53 +0000",
+      "sugar_cane": "2025-07-02 04:20:33 +0000",
+      "potato": "2025-07-02 04:20:07 +0000",
       "wheat": "2025-07-02 02:56:18 +0000",
       "carrot": "2025-07-02 03:00:57 +0000"
     },
@@ -4549,6 +4553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-02 04:18:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bread_from_smoking": {
     "criteria": {
       "has_dough": "2025-07-02 02:47:47 +0000"
@@ -4648,6 +4658,12 @@
   "frightsdelight:recipes/food/cookie_soul_berry": {
     "criteria": {
       "has_wheat": "2025-07-02 02:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-02 04:18:31 +0000"
     },
     "done": true
   },
