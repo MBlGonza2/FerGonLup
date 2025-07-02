@@ -676,6 +676,7 @@
       "minecraft:cherry_grove": "2025-07-02 00:44:37 +0000",
       "minecraft:river": "2025-07-02 00:52:09 +0000",
       "minecraft:dripstone_caves": "2025-07-02 01:27:55 +0000",
+      "minecraft:swamp": "2025-07-02 02:04:19 +0000",
       "minecraft:forest": "2025-07-02 00:44:40 +0000",
       "minecraft:plains": "2025-07-01 03:31:33 +0000"
     },
@@ -4339,6 +4340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-02 02:02:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_brown": {
     "criteria": {
       "has_iron_ingot": "2025-07-02 01:38:13 +0000"
@@ -4483,6 +4490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-02 02:02:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_bench": "2025-07-02 01:38:13 +0000"
@@ -4522,6 +4535,12 @@
   "farm_and_charm:recipes/water_sprinkler": {
     "criteria": {
       "has_iron_ingot": "2025-07-02 01:38:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-02 02:10:23 +0000"
     },
     "done": true
   },
@@ -4654,6 +4673,12 @@
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_wood": "2025-07-02 01:38:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-02 02:10:23 +0000"
     },
     "done": true
   },
