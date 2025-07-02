@@ -4737,6 +4737,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "glow_berries": "2025-07-02 02:20:11 +0000",
+      "sugar_cane": "2025-07-02 04:39:53 +0000",
       "wheat": "2025-07-02 04:06:05 +0000"
     },
     "done": false
@@ -5059,6 +5060,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "has_cobblestone_slab": "2025-07-02 04:35:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
     "criteria": {
       "has_lily_pad": "2025-07-02 03:38:19 +0000"
@@ -5281,6 +5288,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-02 04:40:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-02 03:18:54 +0000"
@@ -5352,6 +5365,12 @@
       "has_beetroot": "2025-07-02 04:00:38 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-07-02 04:40:26 +0000"
+    },
+    "done": false
   },
   "handcrafted:recipes/misc/birch_side_table": {
     "criteria": {
@@ -5590,6 +5609,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-02 03:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-02 04:39:06 +0000"
     },
     "done": true
   },
