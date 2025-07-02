@@ -3822,6 +3822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-02 03:51:12 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/carrot_bag": {
     "criteria": {
       "has_carrot": "2025-07-02 01:53:33 +0000"
@@ -4327,6 +4333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-02 03:51:12 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_couch": {
     "criteria": {
       "has_birch_couch": "2025-07-02 02:25:47 +0000"
@@ -4654,6 +4666,12 @@
   "moredelight:recipes/food/egg_with_bacon_sandwich": {
     "criteria": {
       "has_any_ingredient": "2025-07-02 02:45:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-02 03:51:12 +0000"
     },
     "done": true
   },

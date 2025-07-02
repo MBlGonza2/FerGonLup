@@ -5099,6 +5099,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-07-02 03:43:07 +0000"
+    },
+    "done": true
+  },
   "storagedelight:recipes/decorations/glass_spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-07-02 03:33:20 +0000"
@@ -5123,6 +5129,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/potato_salad": {
+    "criteria": {
+      "has_potato": "2025-07-02 03:43:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-02 03:18:54 +0000"
@@ -5132,6 +5144,12 @@
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-07-02 03:33:20 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/potato_bag": {
+    "criteria": {
+      "has_potato": "2025-07-02 03:43:07 +0000"
     },
     "done": true
   },
@@ -5159,6 +5177,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-07-02 03:43:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/birch_cabinet": {
     "criteria": {
       "has_birch_trapdoor": "2025-07-02 03:34:43 +0000"
@@ -5177,9 +5201,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-02 03:48:45 +0000"
+    },
+    "done": true
+  },
   "storagedelight:recipes/decorations/spruce_drawer": {
     "criteria": {
       "has_spruce_trapdoor": "2025-07-02 03:33:20 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/gunpowder_bag": {
+    "criteria": {
+      "has_gunpowder": "2025-07-02 03:48:45 +0000"
     },
     "done": true
   },
@@ -5213,6 +5249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-02 03:43:07 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-07-02 03:22:04 +0000"
@@ -5240,6 +5282,12 @@
   "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-07-02 03:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-02 03:43:07 +0000"
     },
     "done": true
   },
@@ -5369,6 +5417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-02 03:43:07 +0000"
+    },
+    "done": true
+  },
   "storagedelight:recipes/decorations/small_spruce_drawers": {
     "criteria": {
       "has_spruce_trapdoor": "2025-07-02 03:33:20 +0000"
@@ -5414,6 +5468,12 @@
   "moredelight:recipes/food/egg_with_bacon_sandwich": {
     "criteria": {
       "has_any_ingredient": "2025-07-02 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-02 03:48:45 +0000"
     },
     "done": true
   },
