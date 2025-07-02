@@ -3762,115 +3762,67 @@
     },
     "done": true
   },
-  "cratedelight:recipes/building_blocks/golden_apple_crate": {
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
-      "has_golden_apple": "2025-07-02 03:56:45 +0000"
+      "has_beef": "2025-07-02 01:53:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "moredelight:recipes/cooking/diced_potatoes_with_beef": {
     "criteria": {
-      "has_leather": "2025-07-02 02:00:41 +0000"
+      "has_any_ingredient": "2025-07-02 01:53:11 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
-      "has_any_ingredient": "2025-07-02 02:13:00 +0000"
+      "has_any_ingredient": "2025-07-02 01:53:11 +0000"
     },
     "done": true
   },
-  "farm_and_charm:recipes/window_sill": {
+  "minecraft:recipes/food/cooked_beef": {
     "criteria": {
-      "has_flower_pot": "2025-07-02 02:12:46 +0000"
+      "has_beef": "2025-07-02 01:53:11 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/egg_sandwich": {
+  "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
-      "has_fried_egg": "2025-07-02 02:45:38 +0000"
+      "has_any_ingredient": "2025-07-02 01:53:11 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
-      "has_birch_planks": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-07-02 02:43:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 01:53:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
-    "criteria": {
-      "has_birch_planks": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/vegetable_sandwich": {
-    "criteria": {
-      "has_carrot": "2025-07-02 01:53:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-07-02 03:51:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-07-02 04:05:19 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:recipes/carrot_bag": {
-    "criteria": {
-      "has_carrot": "2025-07-02 01:53:33 +0000"
-    },
-    "done": true
-  },
-  "moredelight:main/get_toast_with_egg": {
-    "criteria": {
-      "toast_with_egg": "2025-07-02 05:01:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 02:13:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
-    "criteria": {
-      "has_birch_planks": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-07-02 04:05:54 +0000"
+      "has_beef": "2025-07-02 01:53:11 +0000"
     },
     "done": true
   },
   "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2025-07-02 01:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-02 01:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-02 01:53:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 01:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-07-02 01:53:26 +0000"
     },
@@ -3882,147 +3834,9 @@
     },
     "done": true
   },
-  "moredelight:recipes/food/toast_campfire_cooking": {
-    "criteria": {
-      "has_bread_slice": "2025-07-02 05:01:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
-    "criteria": {
-      "beef_patty": "2025-07-02 03:02:19 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_shelf": {
-    "criteria": {
-      "has_birch_shelf": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2025-07-02 01:53:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 01:53:33 +0000"
-    },
-    "done": true
-  },
-  "frightsdelight:recipes/food/cookie_spidereye": {
-    "criteria": {
-      "has_wheat": "2025-07-02 02:27:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-07-02 02:00:41 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/butter": {
-    "criteria": {
-      "has_water_bucket": "2025-07-02 02:47:08 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:recipes/beetroot_bag": {
-    "criteria": {
-      "has_beetroots": "2025-07-02 04:05:54 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/food/toast_smoking": {
-    "criteria": {
-      "has_bread_slice": "2025-07-02 05:01:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-07-02 03:06:21 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
-    "criteria": {
-      "has_birch_planks": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:witch": "2025-07-02 03:53:52 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-07-02 02:07:00 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_nightstand": {
-    "criteria": {
-      "has_birch_nightstand": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/baking/baked_potato": {
-    "criteria": {
-      "has_result": "2025-07-02 04:05:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_table": {
-    "criteria": {
-      "has_birch_table": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/food/apple_juice": {
-    "criteria": {
-      "has_apple": "2025-07-02 04:05:58 +0000"
-    },
-    "done": true
-  },
-  "frightsdelight:recipes/food/cookie_wither_berry": {
-    "criteria": {
-      "has_wheat": "2025-07-02 02:27:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_slimeballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 02:51:30 +0000"
     },
     "done": true
   },
@@ -4032,249 +3846,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-07-02 02:27:28 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/food/chicken_salad": {
-    "criteria": {
-      "has_bowl": "2025-07-02 02:25:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-07-02 02:27:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-07-02 02:00:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_hay_block": "2025-07-02 02:27:06 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-07-02 04:05:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 02:51:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "glow_berries": "2025-07-02 04:22:15 +0000",
-      "onion": "2025-07-02 04:18:42 +0000",
-      "beetroot": "2025-07-02 04:19:53 +0000",
-      "sugar_cane": "2025-07-02 04:20:33 +0000",
-      "potato": "2025-07-02 04:20:07 +0000",
-      "wheat": "2025-07-02 02:56:18 +0000",
-      "carrot": "2025-07-02 03:00:57 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/fodder": {
-    "criteria": {
-      "has_hay_block": "2025-07-02 02:27:06 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_birch": {
-    "criteria": {
-      "has_item": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
-    "criteria": {
-      "has_feather": "2025-07-02 04:57:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2025-07-02 02:02:34 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/feather_block": {
-    "criteria": {
-      "has_feather": "2025-07-02 04:57:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/planter_rich": {
-    "criteria": {
-      "has_brick": "2025-07-02 03:04:29 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/food/steak_sandwich": {
-    "criteria": {
-      "has_cooked_beef": "2025-07-02 02:32:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 04:42:38 +0000"
-    },
-    "done": true
-  },
-  "frightsdelight:recipes/food/cookie_cobweb": {
-    "criteria": {
-      "has_wheat": "2025-07-02 02:27:28 +0000"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/food/potato_salad": {
-    "criteria": {
-      "has_potato": "2025-07-02 04:05:40 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2025-07-02 02:00:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-07-02 01:53:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-07-02 01:53:26 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_cupboard": {
-    "criteria": {
-      "has_birch_cupboard": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/cooking/diced_potatoes_with_beef": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 01:53:11 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:recipes/potato_bag": {
-    "criteria": {
-      "has_potato": "2025-07-02 04:05:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-07-02 02:07:00 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/oak_cabinet_with_glass_doors": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-07-02 02:21:50 +0000"
-    },
-    "done": true
-  },
-  "cratedelight:recipes/building_blocks/apple_crate": {
-    "criteria": {
-      "has_apple": "2025-07-02 04:05:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty": {
-    "criteria": {
-      "beef_patty": "2025-07-02 03:02:19 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2025-07-02 01:53:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-07-02 04:05:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-07-02 02:43:51 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_side_table": {
-    "criteria": {
-      "has_birch_side_table": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-07-02 02:00:41 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/heating/baked_potato": {
-    "criteria": {
-      "has_result": "2025-07-02 04:05:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 01:53:11 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
-    "criteria": {
-      "has_birch_planks": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_counter": {
-    "criteria": {
-      "has_birch_counter": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "frightsdelight:recipes/food/cookie_slime": {
-    "criteria": {
-      "has_wheat": "2025-07-02 02:27:28 +0000"
     },
     "done": true
   },
@@ -4284,231 +3858,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
-    "criteria": {
-      "has_birch_planks": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_sapling": {
-    "criteria": {
-      "has_sapling": "2025-07-02 02:07:16 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/oak_bookshelf_with_door": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-07-02 02:21:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-07-02 02:47:08 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/cooking/mashed_potatoes": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 04:42:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough": {
-    "criteria": {
-      "has_wheat": "2025-07-02 02:27:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-07-02 01:53:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-07-02 04:05:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-07-02 02:00:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "flint_knife": "2025-07-02 02:49:59 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/food/toast_with_egg": {
-    "criteria": {
-      "has_fried_egg": "2025-07-02 02:45:38 +0000"
-    },
-    "done": true
-  },
-  "frightsdelight:recipes/food/cookie_slimeapple": {
-    "criteria": {
-      "has_wheat": "2025-07-02 02:27:28 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/baking/sea_salt": {
-    "criteria": {
-      "has_ingredient": "2025-07-02 02:47:08 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-07-02 02:27:28 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/cooking/carrot_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 01:53:33 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_corner_trim": {
-    "criteria": {
-      "has_birch_corner_trim": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/apple_slime": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 04:05:58 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oven": {
-    "criteria": {
-      "has_oven": "2025-07-02 03:04:29 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_desk": {
-    "criteria": {
-      "has_birch_desk": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-07-02 02:29:42 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
-    "criteria": {
-      "has_birch_planks": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/oak_drawer_with_door": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-07-02 02:21:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
-    "criteria": {
-      "has_bread": "2025-07-02 03:16:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-07-02 01:53:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-07-02 02:25:45 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/cake_stand": {
-    "criteria": {
-      "has_brick": "2025-07-02 03:04:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2025-07-02 04:42:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bread_from_smelting": {
-    "criteria": {
-      "has_dough": "2025-07-02 02:47:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-07-02 02:00:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_boots": "2025-07-02 03:30:23 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/tools/empty_leather_canteen": {
-    "criteria": {
-      "has_leather": "2025-07-02 02:00:41 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-02 01:53:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-07-02 03:51:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-07-02 04:05:40 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/cooking/potato_salad": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 04:42:38 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_couch": {
-    "criteria": {
-      "has_birch_couch": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/cooking/cooked_rice_with_beef": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 04:42:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-07-02 02:43:51 +0000"
     },
     "done": true
   },
@@ -4518,45 +3870,63 @@
     },
     "done": true
   },
-  "bakery:recipes/sandwich": {
+  "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
-      "has_bread": "2025-07-02 03:16:27 +0000"
+      "has_onion": "2025-07-02 01:53:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
+  "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
-      "has_brown_mushroom": "2025-07-02 02:13:00 +0000"
+      "has_any_ingredient": "2025-07-02 01:53:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
-      "has_potato": "2025-07-02 04:05:40 +0000"
+      "has_onion": "2025-07-02 01:53:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bricks": {
+  "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
-      "has_brick": "2025-07-02 03:04:29 +0000"
+      "has_any_ingredient": "2025-07-02 01:53:32 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/noodle_soup": {
+  "moredelight:recipes/cooking/creamy_pasta_with_chicken_cuts": {
     "criteria": {
-      "has_any_ingredient": "2025-07-02 01:53:26 +0000"
+      "has_any_ingredient": "2025-07-02 01:53:32 +0000"
     },
     "done": true
   },
-  "storagedelight:recipes/decorations/oak_single_door_cabinet": {
+  "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
-      "has_oak_trapdoor": "2025-07-02 02:21:50 +0000"
+      "has_any_ingredient": "2025-07-02 01:53:33 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
+  "bakery:recipes/vegetable_sandwich": {
     "criteria": {
-      "has_birch_planks": "2025-07-02 02:25:47 +0000"
+      "has_carrot": "2025-07-02 01:53:33 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/carrot_bag": {
+    "criteria": {
+      "has_carrot": "2025-07-02 01:53:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 01:53:33 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/carrot_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 01:53:33 +0000"
     },
     "done": true
   },
@@ -4566,39 +3936,57 @@
     },
     "done": true
   },
-  "moredelight:recipes/food/toast_smelting": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_bread_slice": "2025-07-02 05:01:09 +0000"
+      "has_carrot": "2025-07-02 01:53:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
-      "has_porkchop": "2025-07-02 01:53:26 +0000"
+      "has_leather": "2025-07-02 02:00:41 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/birch_fancy_bed": {
+  "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
-      "has_birch_fancy_bed": "2025-07-02 02:25:47 +0000"
+      "has_leather": "2025-07-02 02:00:41 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/birch_pillar_trim": {
+  "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
-      "has_birch_pillar_trim": "2025-07-02 02:25:47 +0000"
+      "has_leather": "2025-07-02 02:00:41 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/barbecue_stick": {
+  "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
-      "has_onion": "2025-07-02 01:53:32 +0000"
+      "has_leather": "2025-07-02 02:00:41 +0000"
     },
     "done": true
   },
-  "cratedelight:recipes/building_blocks/brown_mushroom_crate": {
+  "minecraft:recipes/decorations/item_frame": {
     "criteria": {
-      "has_brown_mushroom": "2025-07-02 02:13:00 +0000"
+      "has_leather": "2025-07-02 02:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-02 02:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-02 02:00:41 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_leather_canteen": {
+    "criteria": {
+      "has_leather": "2025-07-02 02:00:41 +0000"
     },
     "done": true
   },
@@ -4608,63 +3996,111 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
-      "has_wheat": "2025-07-02 02:27:28 +0000"
+      "has_leather": "2025-07-02 02:00:41 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/skillet": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
-      "has_brick": "2025-07-02 03:04:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-07-02 04:18:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bread_from_smoking": {
-    "criteria": {
-      "has_dough": "2025-07-02 02:47:47 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_dining_bench": {
-    "criteria": {
-      "has_birch_dining_bench": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-07-02 03:04:29 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/food/dough": {
-    "criteria": {
-      "has_water": "2025-07-02 02:47:08 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_chair": {
-    "criteria": {
-      "has_birch_chair": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/glass_oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-07-02 02:21:50 +0000"
+      "has_blue_orchid": "2025-07-02 02:02:34 +0000"
     },
     "done": true
   },
   "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2025-07-02 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-02 02:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-02 02:07:00 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-07-02 02:07:16 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/seasonal_compendium": {
+    "criteria": {
+      "has_sapling": "2025-07-02 02:07:16 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/window_sill": {
+    "criteria": {
+      "has_flower_pot": "2025-07-02 02:12:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 02:13:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 02:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-02 02:13:00 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/brown_mushroom_crate": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-02 02:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-02 02:13:00 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/oak_cabinet_with_glass_doors": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-02 02:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/oak_bookshelf_with_door": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-02 02:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/oak_drawer_with_door": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-02 02:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/oak_single_door_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-02 02:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/glass_oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-02 02:21:50 +0000"
     },
     "done": true
   },
@@ -4680,6 +4116,210 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/oak_drawer_with_books": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-02 02:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/oak_drawer": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-02 02:21:50 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/chicken_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-02 02:25:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-02 02:25:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-02 02:25:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+    "criteria": {
+      "has_birch_planks": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_birch_planks": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_birch_planks": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_item": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
+    "criteria": {
+      "has_birch_planks": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
+    "criteria": {
+      "has_birch_planks": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
     "criteria": {
       "has_birch_planks": "2025-07-02 02:25:47 +0000"
@@ -4692,117 +4332,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/freezing/ice": {
-    "criteria": {
-      "has_ingredient": "2025-07-02 02:47:08 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty_from_smoking": {
-    "criteria": {
-      "beef_patty": "2025-07-02 03:02:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 01:53:11 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/baking_station": {
-    "criteria": {
-      "has_brick": "2025-07-02 03:04:29 +0000"
-    },
-    "done": true
-  },
-  "seasonsextras:recipes/seasonal_compendium": {
-    "criteria": {
-      "has_sapling": "2025-07-02 02:07:16 +0000"
-    },
-    "done": true
-  },
-  "frightsdelight:recipes/food/cookie_soul_berry": {
-    "criteria": {
-      "has_wheat": "2025-07-02 02:27:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-07-02 04:18:31 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
     "criteria": {
       "has_birch_planks": "2025-07-02 02:25:47 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/food/cheese": {
-    "criteria": {
-      "has_milk": "2025-07-02 04:42:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2025-07-02 02:25:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-07-02 04:05:40 +0000"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/cooking/batter": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 04:42:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2025-07-02 02:51:30 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2025-07-02 02:00:41 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/cooking/cooked_rice_with_chicken_cuts": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 04:42:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-07-02 01:53:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-02 02:25:47 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/oak_drawer_with_books": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-07-02 02:21:50 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2025-07-02 02:28:01 +0000"
     },
     "done": true
   },
@@ -4824,39 +4362,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/ratatouille": {
+  "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
-      "has_any_ingredient": "2025-07-02 01:53:32 +0000"
+      "has_planks": "2025-07-02 02:25:47 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
+  "minecraft:recipes/redstone/target": {
     "criteria": {
-      "has_baked_potato": "2025-07-02 04:05:19 +0000"
+      "has_hay_block": "2025-07-02 02:27:06 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "supplementaries:recipes/fodder": {
     "criteria": {
-      "minecraft:witch": "2025-07-02 03:53:52 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/oak_drawer": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-07-02 02:21:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-07-02 02:56:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2025-07-02 03:04:29 +0000"
+      "has_hay_block": "2025-07-02 02:27:06 +0000"
     },
     "done": true
   },
@@ -4866,15 +4386,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "frightsdelight:recipes/food/cookie_spidereye": {
     "criteria": {
-      "has_planks": "2025-07-02 02:25:47 +0000"
+      "has_wheat": "2025-07-02 02:27:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "frightsdelight:recipes/food/cookie_wither_berry": {
     "criteria": {
-      "has_brown_mushroom": "2025-07-02 02:13:00 +0000"
+      "has_wheat": "2025-07-02 02:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-02 02:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-02 02:27:28 +0000"
+    },
+    "done": true
+  },
+  "frightsdelight:recipes/food/cookie_cobweb": {
+    "criteria": {
+      "has_wheat": "2025-07-02 02:27:28 +0000"
+    },
+    "done": true
+  },
+  "frightsdelight:recipes/food/cookie_slime": {
+    "criteria": {
+      "has_wheat": "2025-07-02 02:27:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-07-02 02:27:28 +0000"
+    },
+    "done": true
+  },
+  "frightsdelight:recipes/food/cookie_slimeapple": {
+    "criteria": {
+      "has_wheat": "2025-07-02 02:27:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-07-02 02:27:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-07-02 02:27:28 +0000"
+    },
+    "done": true
+  },
+  "frightsdelight:recipes/food/cookie_soul_berry": {
+    "criteria": {
+      "has_wheat": "2025-07-02 02:27:28 +0000"
     },
     "done": true
   },
@@ -4884,33 +4458,135 @@
     },
     "done": true
   },
-  "moredelight:recipes/food/egg_with_bacon_sandwich": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-02 02:45:38 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/lapis_bricks": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-07-02 03:51:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
-    "criteria": {
-      "has_onion": "2025-07-02 01:53:32 +0000"
-    },
-    "done": true
-  },
   "frightsdelight:recipes/food/cookie_ghast_tear": {
     "criteria": {
       "has_wheat": "2025-07-02 02:27:28 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
-      "has_any_ingredient": "2025-07-02 01:53:32 +0000"
+      "has_backpack": "2025-07-02 02:28:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-02 02:28:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-02 02:29:42 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/steak_sandwich": {
+    "criteria": {
+      "has_cooked_beef": "2025-07-02 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-02 02:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-02 02:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-02 02:43:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-07-02 02:45:38 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_with_egg": {
+    "criteria": {
+      "has_fried_egg": "2025-07-02 02:45:38 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/egg_with_bacon_sandwich": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 02:45:38 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_water_bucket": "2025-07-02 02:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-02 02:47:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-07-02 02:47:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-07-02 02:47:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-07-02 02:47:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smelting": {
+    "criteria": {
+      "has_dough": "2025-07-02 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2025-07-02 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2025-07-02 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_slimeballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 02:51:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 02:51:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-07-02 02:51:30 +0000"
     },
     "done": true
   },
@@ -4920,21 +4596,345 @@
     },
     "done": true
   },
-  "moredelight:recipes/cooking/creamy_pasta_with_chicken_cuts": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "has_any_ingredient": "2025-07-02 01:53:32 +0000"
+      "glow_berries": "2025-07-02 04:22:15 +0000",
+      "onion": "2025-07-02 04:18:42 +0000",
+      "beetroot": "2025-07-02 04:19:53 +0000",
+      "sugar_cane": "2025-07-02 04:20:33 +0000",
+      "potato": "2025-07-02 04:20:07 +0000",
+      "wheat": "2025-07-02 02:56:18 +0000",
+      "carrot": "2025-07-02 03:00:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-02 02:56:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
-      "has_beef": "2025-07-02 01:53:11 +0000"
+      "beef_patty": "2025-07-02 03:02:19 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+  "farmersdelight:recipes/food/beef_patty": {
     "criteria": {
-      "has_backpack": "2025-07-02 02:28:01 +0000"
+      "beef_patty": "2025-07-02 03:02:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-07-02 03:02:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_brick": "2025-07-02 03:04:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-07-02 03:04:29 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_stand": {
+    "criteria": {
+      "has_brick": "2025-07-02 03:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-02 03:04:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-07-02 03:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-02 03:04:29 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/baking_station": {
+    "criteria": {
+      "has_brick": "2025-07-02 03:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-02 03:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-02 03:06:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-07-02 03:16:27 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandwich": {
+    "criteria": {
+      "has_bread": "2025-07-02 03:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-07-02 03:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-02 03:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-02 03:51:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-02 03:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:witch": "2025-07-02 03:53:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:witch": "2025-07-02 03:53:52 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/golden_apple_crate": {
+    "criteria": {
+      "has_golden_apple": "2025-07-02 03:56:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-07-02 04:05:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_result": "2025-07-02 04:05:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_result": "2025-07-02 04:05:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-07-02 04:05:19 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/potato_salad": {
+    "criteria": {
+      "has_potato": "2025-07-02 04:05:40 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/potato_bag": {
+    "criteria": {
+      "has_potato": "2025-07-02 04:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-02 04:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-02 04:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-02 04:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-02 04:05:54 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/beetroot_bag": {
+    "criteria": {
+      "has_beetroots": "2025-07-02 04:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-07-02 04:05:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-02 04:05:54 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-07-02 04:05:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-02 04:05:58 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/apple_crate": {
+    "criteria": {
+      "has_apple": "2025-07-02 04:05:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_slime": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 04:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-02 04:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-02 04:18:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 04:42:38 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/mashed_potatoes": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 04:42:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-07-02 04:42:38 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/potato_salad": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 04:42:38 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/cooked_rice_with_beef": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 04:42:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-07-02 04:42:38 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/batter": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 04:42:38 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/cooked_rice_with_chicken_cuts": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 04:42:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-07-02 04:57:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-07-02 04:57:40 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_campfire_cooking": {
+    "criteria": {
+      "has_bread_slice": "2025-07-02 05:01:09 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_smoking": {
+    "criteria": {
+      "has_bread_slice": "2025-07-02 05:01:09 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_smelting": {
+    "criteria": {
+      "has_bread_slice": "2025-07-02 05:01:09 +0000"
+    },
+    "done": true
+  },
+  "moredelight:main/get_toast_with_egg": {
+    "criteria": {
+      "toast_with_egg": "2025-07-02 05:01:57 +0000"
     },
     "done": true
   },

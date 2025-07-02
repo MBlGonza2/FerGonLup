@@ -5934,12 +5934,6 @@
     },
     "done": false
   },
-  "moredelight:main/get_toast_with_egg": {
-    "criteria": {
-      "toast_with_egg": "2025-07-02 05:04:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-07-02 04:44:14 +0000"
@@ -5952,15 +5946,15 @@
     },
     "done": true
   },
-  "farm_and_charm:recipes/pitchfork": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_iron_nugget": "2025-07-02 04:45:59 +0000"
+      "has_bone_meal": "2025-07-02 04:44:14 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/item_shelf": {
+  "farm_and_charm:recipes/pitchfork": {
     "criteria": {
-      "minecraft:wooden_slabs": "2025-07-02 04:52:33 +0000"
+      "has_iron_nugget": "2025-07-02 04:45:59 +0000"
     },
     "done": true
   },
@@ -5970,9 +5964,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "supplementaries:recipes/sconce_soul": {
     "criteria": {
-      "has_bone_meal": "2025-07-02 04:44:14 +0000"
+      "has_iron_nugget": "2025-07-02 04:45:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-02 04:52:33 +0000"
     },
     "done": true
   },
@@ -6006,12 +6006,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sconce_soul": {
-    "criteria": {
-      "has_iron_nugget": "2025-07-02 04:45:59 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/wood_bowl": {
     "criteria": {
       "has_wood_bowl": "2025-07-02 04:52:33 +0000"
@@ -6027,6 +6021,12 @@
   "animal_feeding_trough:recipes/decorations/feeding_trough": {
     "criteria": {
       "has_wood_slab": "2025-07-02 04:52:33 +0000"
+    },
+    "done": true
+  },
+  "moredelight:main/get_toast_with_egg": {
+    "criteria": {
+      "toast_with_egg": "2025-07-02 05:04:40 +0000"
     },
     "done": true
   },
