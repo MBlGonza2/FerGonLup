@@ -4110,6 +4110,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 04:42:38 +0000"
+    },
+    "done": true
+  },
   "frightsdelight:recipes/food/cookie_cobweb": {
     "criteria": {
       "has_wheat": "2025-07-02 02:27:28 +0000"
@@ -4272,6 +4278,12 @@
     },
     "done": true
   },
+  "moredelight:recipes/cooking/mashed_potatoes": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 04:42:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough": {
     "criteria": {
       "has_wheat": "2025-07-02 02:27:28 +0000"
@@ -4398,6 +4410,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-07-02 04:42:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bread_from_smelting": {
     "criteria": {
       "has_dough": "2025-07-02 02:47:47 +0000"
@@ -4440,9 +4458,21 @@
     },
     "done": true
   },
+  "moredelight:recipes/cooking/potato_salad": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 04:42:38 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_couch": {
     "criteria": {
       "has_birch_couch": "2025-07-02 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/cooked_rice_with_beef": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 04:42:38 +0000"
     },
     "done": true
   },
@@ -4674,6 +4704,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-07-02 04:42:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-07-02 02:25:45 +0000"
@@ -4686,6 +4722,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/cooking/batter": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 04:42:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-07-02 02:51:30 +0000"
@@ -4695,6 +4737,12 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-07-02 02:00:41 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/cooked_rice_with_chicken_cuts": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 04:42:38 +0000"
     },
     "done": true
   },
