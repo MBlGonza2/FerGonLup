@@ -5045,9 +5045,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2025-07-02 03:38:19 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/glass_birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-07-02 03:34:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-02 03:26:04 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/birch_cabinet_with_glass_doors": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-07-02 03:34:43 +0000"
     },
     "done": true
   },
@@ -5081,6 +5099,12 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/glass_spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-02 03:33:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-02 03:22:04 +0000"
@@ -5105,9 +5129,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-02 03:33:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-07-02 03:22:04 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/birch_single_door_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-07-02 03:34:43 +0000"
     },
     "done": true
   },
@@ -5123,6 +5159,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-07-02 03:34:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-02 03:18:54 +0000"
@@ -5135,15 +5177,33 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/spruce_drawer": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-02 03:33:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-07-02 03:11:07 +0000"
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/birch_drawer_with_door": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-07-02 03:34:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2025-07-02 03:11:07 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_drawer_with_door": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-02 03:33:20 +0000"
     },
     "done": true
   },
@@ -5156,6 +5216,12 @@
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-07-02 03:22:04 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_single_door_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-02 03:33:20 +0000"
     },
     "done": true
   },
@@ -5177,9 +5243,27 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/birch_drawer": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-07-02 03:34:43 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_cabinet_with_glass_doors": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-02 03:33:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-02 03:18:54 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_drawer_with_books": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-02 03:33:20 +0000"
     },
     "done": true
   },
@@ -5189,9 +5273,21 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/birch_bookshelf_with_door": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-07-02 03:34:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-02 03:22:04 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/birch_drawer_with_books": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-07-02 03:34:43 +0000"
     },
     "done": true
   },
@@ -5243,6 +5339,12 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/small_birch_drawers": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-07-02 03:34:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-02 03:22:04 +0000"
@@ -5267,9 +5369,21 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/small_spruce_drawers": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-02 03:33:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-07-02 03:21:14 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/spruce_bookshelf_with_door": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-02 03:33:20 +0000"
     },
     "done": true
   },
