@@ -4309,6 +4309,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-07-02 03:30:23 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/tools/empty_leather_canteen": {
     "criteria": {
       "has_leather": "2025-07-02 02:00:41 +0000"
