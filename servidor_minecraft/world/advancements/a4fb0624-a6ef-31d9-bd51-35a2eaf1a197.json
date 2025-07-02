@@ -4064,6 +4064,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "glow_berries": "2025-07-02 04:22:15 +0000",
       "onion": "2025-07-02 04:18:42 +0000",
       "beetroot": "2025-07-02 04:19:53 +0000",
       "sugar_cane": "2025-07-02 04:20:33 +0000",
