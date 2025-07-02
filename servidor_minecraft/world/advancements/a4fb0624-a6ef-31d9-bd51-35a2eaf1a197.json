@@ -3990,6 +3990,12 @@
     },
     "done": true
   },
+  "moredelight:recipes/food/steak_sandwich": {
+    "criteria": {
+      "has_cooked_beef": "2025-07-02 02:32:42 +0000"
+    },
+    "done": true
+  },
   "frightsdelight:recipes/food/cookie_cobweb": {
     "criteria": {
       "has_wheat": "2025-07-02 02:27:28 +0000"
