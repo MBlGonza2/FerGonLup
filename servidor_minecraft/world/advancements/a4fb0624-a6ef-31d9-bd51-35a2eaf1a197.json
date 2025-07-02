@@ -3876,6 +3876,12 @@
     },
     "done": true
   },
+  "moredelight:recipes/food/toast_campfire_cooking": {
+    "criteria": {
+      "has_bread_slice": "2025-07-02 05:01:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-07-02 02:25:47 +0000"
@@ -3933,6 +3939,12 @@
   "farm_and_charm:recipes/beetroot_bag": {
     "criteria": {
       "has_beetroots": "2025-07-02 04:05:54 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_smoking": {
+    "criteria": {
+      "has_bread_slice": "2025-07-02 05:01:09 +0000"
     },
     "done": true
   },
@@ -4092,9 +4104,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-07-02 04:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2025-07-02 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-07-02 04:57:40 +0000"
     },
     "done": true
   },
@@ -4533,6 +4557,12 @@
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-07-02 01:53:33 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_smelting": {
+    "criteria": {
+      "has_bread_slice": "2025-07-02 05:01:09 +0000"
     },
     "done": true
   },
