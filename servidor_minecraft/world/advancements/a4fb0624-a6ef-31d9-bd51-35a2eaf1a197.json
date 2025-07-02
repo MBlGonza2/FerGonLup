@@ -3942,6 +3942,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_slimeballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 02:51:30 +0000"
+    },
+    "done": true
+  },
   "moredelight:recipes/cooking/diced_potatoes_with_egg_and_tomato": {
     "criteria": {
       "has_any_ingredient": "2025-07-02 01:53:32 +0000"
@@ -3983,6 +3989,19 @@
       "has_hay_block": "2025-07-02 02:27:06 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 02:51:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-07-02 02:56:18 +0000",
+      "carrot": "2025-07-02 03:00:57 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/fodder": {
     "criteria": {
@@ -4446,6 +4465,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-07-02 02:51:30 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-07-02 02:00:41 +0000"
@@ -4506,6 +4531,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-02 02:56:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-07-02 02:27:06 +0000"
@@ -4551,6 +4582,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-02 01:53:32 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/creamy_pasta_with_ham": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 02:51:30 +0000"
     },
     "done": true
   },
