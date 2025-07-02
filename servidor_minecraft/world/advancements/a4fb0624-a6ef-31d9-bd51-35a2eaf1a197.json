@@ -1,4 +1,10 @@
 {
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-02 01:26:39 +0000"
+    },
+    "done": true
+  },
   "betterfurnacesreforged:recipes/platinum_furnace": {
     "criteria": {
       "has_ingredient": "2025-07-02 00:26:52 +0000"
@@ -179,6 +185,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2025-07-02 01:30:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
     "criteria": {
       "has_iron_ingot": "2025-07-02 00:50:57 +0000"
@@ -212,6 +224,12 @@
   "betterfurnacesreforged:recipes/platinum_forge": {
     "criteria": {
       "has_ingredient": "2025-07-02 00:26:52 +0000"
+    },
+    "done": true
+  },
+  "frightsdelight:main/get_monster_drop": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-02 01:26:39 +0000"
     },
     "done": true
   },
@@ -1157,6 +1175,12 @@
     },
     "done": true
   },
+  "overweight_farming:recipes/apply_violent_fullmetal_directly_to_compost": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-02 01:26:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-02 00:44:47 +0000"
@@ -1196,6 +1220,12 @@
   "bakery:recipes/rolling_pin": {
     "criteria": {
       "has_oak_planks": "2025-07-02 00:29:54 +0000"
+    },
+    "done": true
+  },
+  "frightsdelight:recipes/food/cookie_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-02 01:26:39 +0000"
     },
     "done": true
   },
@@ -1427,6 +1457,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/undead_kebab": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 01:26:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-07-02 00:50:57 +0000"
@@ -1472,6 +1508,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-07-02 00:44:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_kebab_rotten_flesh": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 01:26:39 +0000"
     },
     "done": true
   },
@@ -1628,6 +1670,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-07-02 00:50:57 +0000"
+    },
+    "done": true
+  },
+  "frightsdelight:recipes/building_blocks/flesh_crate": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-02 01:26:39 +0000"
     },
     "done": true
   },
@@ -1859,6 +1907,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-07-02 00:30:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 01:26:39 +0000"
     },
     "done": true
   },
@@ -2285,6 +2339,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_white": {
     "criteria": {
       "has_iron_ingot": "2025-07-02 00:50:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/monster_mash": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 01:26:39 +0000"
     },
     "done": true
   },
@@ -3194,6 +3254,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/soup_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-02 01:26:39 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/end_bricks_stove": {
     "criteria": {
       "has_iron_ingot": "2025-07-02 00:50:57 +0000"
@@ -3329,6 +3395,12 @@
   "betterfurnacesreforged:recipes/raw_ore_processing_upgrade": {
     "criteria": {
       "has_ingredient": "2025-07-02 00:26:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-02 01:26:39 +0000"
     },
     "done": true
   },
