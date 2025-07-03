@@ -7537,6 +7537,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/cooked_calamari": {
+    "criteria": {
+      "has_calamari": "2025-07-03 23:48:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-07-03 23:14:07 +0000"
@@ -7564,6 +7570,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-07-03 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cooked_calamari_from_smoking": {
+    "criteria": {
+      "has_calamari": "2025-07-03 23:48:11 +0000"
     },
     "done": true
   },
@@ -7603,6 +7615,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2025-07-03 23:44:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-07-03 23:14:07 +0000"
@@ -7624,6 +7642,12 @@
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_nugget": "2025-07-03 23:16:01 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cooked_calamari_from_campfire_cooking": {
+    "criteria": {
+      "has_calamari": "2025-07-03 23:48:11 +0000"
     },
     "done": true
   },
