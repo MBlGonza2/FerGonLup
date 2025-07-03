@@ -6255,5 +6255,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-07-03 23:13:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
