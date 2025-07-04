@@ -7515,6 +7515,12 @@
     },
     "done": true
   },
+  "moredelight:recipes/food/toast_with_chocolate": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-04 04:03:25 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/tools/golden_machete": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 00:20:01 +0000"
@@ -7530,6 +7536,12 @@
   "rusticdelight:recipes/misc/coffee_beans_bag_from_coffee_beans": {
     "criteria": {
       "has_coffee_beans": "2025-07-04 03:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-07-04 04:03:30 +0000"
     },
     "done": true
   },
@@ -7562,6 +7574,12 @@
       "minecraft:basalt_deltas": "2025-07-04 02:27:48 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-04 04:03:25 +0000"
+    },
+    "done": true
   },
   "reinfchest:recipes/decorations/gold_chest": {
     "criteria": {
@@ -7737,6 +7755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-07-04 04:03:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 00:20:01 +0000"
@@ -7809,9 +7833,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 04:03:25 +0000"
+    },
+    "done": true
+  },
   "reinfbarrel:recipes/decorations/diamond_barrel": {
     "criteria": {
       "has_diamond": "2025-07-03 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/roasted_bell_pepper_red_from_smoking": {
+    "criteria": {
+      "has_bell_pepper_red": "2025-07-04 04:00:59 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/cocoabeans_bag": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-04 04:03:25 +0000"
     },
     "done": true
   },
@@ -7911,6 +7953,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/bell_pepper_soup": {
+    "criteria": {
+      "has_bell_pepper_red": "2025-07-04 04:00:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-04 03:39:09 +0000"
@@ -7944,6 +7992,12 @@
   "farm_and_charm:recipes/onion_bag": {
     "criteria": {
       "has_onion": "2025-07-04 02:38:21 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/roasted_bell_pepper_red_from_campfire_cooking": {
+    "criteria": {
+      "has_bell_pepper_red": "2025-07-04 04:00:59 +0000"
     },
     "done": true
   },
@@ -8139,6 +8193,12 @@
     },
     "done": true
   },
+  "moredelight:recipes/food/chocolate_popsicle": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-04 04:03:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/salmon_roll": {
     "criteria": {
       "has_salmon_slice": "2025-07-04 00:11:00 +0000"
@@ -8175,9 +8235,21 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/misc/red_dye_from_bell_pepper_red": {
+    "criteria": {
+      "has_bell_pepper_red": "2025-07-04 04:00:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-04 03:39:09 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/bell_pepper_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 04:00:59 +0000"
     },
     "done": true
   },
@@ -8235,6 +8307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-07-04 04:03:30 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/tools/empty_gold_canteen": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 00:20:01 +0000"
@@ -8262,6 +8340,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-07-04 03:40:23 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/stuffed_bell_pepper_red": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 04:00:59 +0000"
     },
     "done": true
   },
@@ -8316,6 +8400,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-04 03:39:09 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/bell_pepper_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 04:00:59 +0000"
     },
     "done": true
   },
@@ -8379,9 +8469,21 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/misc/bell_pepper_red_crate_from_bell_pepper_red": {
+    "criteria": {
+      "has_bell_pepper_red": "2025-07-04 04:00:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/roasted_bell_pepper_red": {
+    "criteria": {
+      "has_bell_pepper_red": "2025-07-04 04:00:59 +0000"
     },
     "done": true
   },
