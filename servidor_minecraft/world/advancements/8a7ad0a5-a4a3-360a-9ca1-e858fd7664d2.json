@@ -678,12 +678,15 @@
       "minecraft:frozen_river": "2025-07-04 02:01:18 +0000",
       "minecraft:cherry_grove": "2025-07-02 00:44:37 +0000",
       "minecraft:beach": "2025-07-04 02:36:53 +0000",
+      "minecraft:mangrove_swamp": "2025-07-04 03:56:31 +0000",
+      "minecraft:sparse_jungle": "2025-07-04 03:59:12 +0000",
       "minecraft:river": "2025-07-02 00:52:09 +0000",
       "minecraft:dripstone_caves": "2025-07-02 01:27:55 +0000",
       "minecraft:snowy_taiga": "2025-07-04 02:02:50 +0000",
       "minecraft:swamp": "2025-07-02 02:04:19 +0000",
       "minecraft:forest": "2025-07-02 00:44:40 +0000",
       "minecraft:lush_caves": "2025-07-04 02:52:54 +0000",
+      "minecraft:jungle": "2025-07-04 03:59:07 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-02 21:31:55 +0000",
       "minecraft:snowy_beach": "2025-07-04 03:16:25 +0000",
       "minecraft:meadow": "2025-07-04 03:30:35 +0000",
@@ -7500,6 +7503,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-07-04 03:59:39 +0000"
+    },
+    "done": true
+  },
   "overweight_farming:recipes/overweight_golden_apple_block": {
     "criteria": {
       "has_gold_block": "2025-07-04 03:40:41 +0000"
@@ -7515,6 +7524,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-07-04 03:40:41 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/coffee_beans_bag_from_coffee_beans": {
+    "criteria": {
+      "has_coffee_beans": "2025-07-04 03:59:55 +0000"
     },
     "done": true
   },
@@ -7608,6 +7623,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-07-04 03:59:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-07-04 02:18:45 +0000"
@@ -7635,6 +7656,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
     "criteria": {
       "has_spruce_leaves": "2025-07-04 00:14:47 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-07-04 03:59:39 +0000"
     },
     "done": true
   },
@@ -7794,6 +7821,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-07-04 03:59:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-07-04 03:39:09 +0000"
@@ -7842,6 +7875,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/misc/yellow_dye_from_coffee_beans": {
+    "criteria": {
+      "has_coffee_beans": "2025-07-04 03:59:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-07-04 02:18:45 +0000"
@@ -7875,6 +7914,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-04 03:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-04 03:59:39 +0000"
     },
     "done": true
   },
@@ -7926,6 +7971,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/roasted_coffee_beans": {
+    "criteria": {
+      "has_coffee_beans": "2025-07-04 03:59:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-07-03 23:14:07 +0000"
@@ -7944,6 +7995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-04 03:59:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-07-03 23:14:07 +0000"
@@ -7959,6 +8016,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-07-03 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/roasted_coffee_beans_from_smoking": {
+    "criteria": {
+      "has_coffee_beans": "2025-07-04 03:59:55 +0000"
     },
     "done": true
   },
@@ -8052,6 +8115,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/roasted_coffee_beans_from_campfire_cooking": {
+    "criteria": {
+      "has_coffee_beans": "2025-07-04 03:59:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
       "has_golden_thin_pot": "2025-07-04 03:40:41 +0000"
@@ -8118,6 +8187,12 @@
     },
     "done": true
   },
+  "moredelight:recipes/food/tomato_sandwich": {
+    "criteria": {
+      "has_tomato": "2025-07-04 03:59:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_kebab_ghast_tear": {
     "criteria": {
       "has_any_ingredient": "2025-07-04 02:34:50 +0000"
@@ -8127,6 +8202,18 @@
   "toughasnails:recipes/combat/leaf_leggings": {
     "criteria": {
       "has_leaves": "2025-07-04 00:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-04 03:59:39 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/bell_pepper_seeds_bag_from_bell_pepper_seeds": {
+    "criteria": {
+      "has_bell_pepper_seeds": "2025-07-04 03:59:24 +0000"
     },
     "done": true
   },
@@ -8214,6 +8301,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/golden_coffee_beans": {
+    "criteria": {
+      "has_coffee_beans": "2025-07-04 03:59:55 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/combat/leaf_chestplate": {
     "criteria": {
       "has_leaves": "2025-07-04 00:14:47 +0000"
@@ -8223,6 +8316,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-04 03:39:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-07-04 03:59:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-07-04 03:59:51 +0000"
     },
     "done": true
   },
