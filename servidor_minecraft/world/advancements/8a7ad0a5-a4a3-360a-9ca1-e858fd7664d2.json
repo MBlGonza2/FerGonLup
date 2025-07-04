@@ -6172,6 +6172,7 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "shepherds_pie": "2025-07-02 20:49:00 +0000",
+      "bone_broth": "2025-07-04 00:46:15 +0000",
       "stuffed_pumpkin": "2025-07-02 23:49:40 +0000"
     },
     "done": false
@@ -7652,6 +7653,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-07-04 00:46:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 00:20:01 +0000"
@@ -7877,6 +7884,12 @@
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-07-04 00:11:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-07-04 00:47:20 +0000"
     },
     "done": true
   },
