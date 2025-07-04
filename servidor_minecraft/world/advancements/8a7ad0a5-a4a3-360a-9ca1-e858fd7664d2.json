@@ -673,9 +673,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-07-04 01:59:19 +0000",
+      "minecraft:frozen_river": "2025-07-04 02:01:18 +0000",
       "minecraft:cherry_grove": "2025-07-02 00:44:37 +0000",
       "minecraft:river": "2025-07-02 00:52:09 +0000",
       "minecraft:dripstone_caves": "2025-07-02 01:27:55 +0000",
+      "minecraft:snowy_taiga": "2025-07-04 02:02:50 +0000",
       "minecraft:swamp": "2025-07-02 02:04:19 +0000",
       "minecraft:forest": "2025-07-02 00:44:40 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-02 21:31:55 +0000",
@@ -6173,7 +6176,8 @@
     "criteria": {
       "shepherds_pie": "2025-07-02 20:49:00 +0000",
       "bone_broth": "2025-07-04 00:46:15 +0000",
-      "stuffed_pumpkin": "2025-07-02 23:49:40 +0000"
+      "stuffed_pumpkin": "2025-07-02 23:49:40 +0000",
+      "roast_chicken": "2025-07-04 01:55:15 +0000"
     },
     "done": false
   },
@@ -7581,6 +7585,12 @@
     },
     "done": true
   },
+  "bakery:recipes/strawberry_chocolate": {
+    "criteria": {
+      "has_strawberry": "2025-07-04 02:00:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_horse_armor": "2025-07-04 01:36:31 +0000"
@@ -7701,6 +7711,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/azalea_hedge": {
+    "criteria": {
+      "has_azalea_leaves": "2025-07-04 02:02:16 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/cooked_calamari_from_smoking": {
     "criteria": {
       "has_calamari": "2025-07-03 23:48:11 +0000"
@@ -7740,6 +7756,12 @@
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-07-04 00:11:00 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/strawberry_bag": {
+    "criteria": {
+      "has_strawberry": "2025-07-04 02:00:34 +0000"
     },
     "done": true
   },

@@ -6090,7 +6090,8 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "shepherds_pie": "2025-07-02 21:13:59 +0000",
-      "bone_broth": "2025-07-04 01:03:12 +0000"
+      "bone_broth": "2025-07-04 01:03:12 +0000",
+      "roast_chicken": "2025-07-04 02:03:38 +0000"
     },
     "done": false
   },
@@ -6400,9 +6401,21 @@
     },
     "done": true
   },
+  "toughasnails:recipes/combat/leaf_helmet": {
+    "criteria": {
+      "has_leaves": "2025-07-04 02:05:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-07-04 01:44:33 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/strawberry_chocolate": {
+    "criteria": {
+      "has_strawberry": "2025-07-04 02:05:56 +0000"
     },
     "done": true
   },
@@ -6436,6 +6449,25 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:siamese": "2025-07-04 01:55:48 +0000",
+      "minecraft:persian": "2025-07-04 01:56:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-04 01:55:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/azalea_hedge": {
+    "criteria": {
+      "has_azalea_leaves": "2025-07-04 02:05:09 +0000"
+    },
+    "done": true
+  },
   "frightsdelight:recipes/building_blocks/poisonous_potato_crate": {
     "criteria": {
       "has_poisonous_potato": "2025-07-04 00:17:26 +0000"
@@ -6457,6 +6489,12 @@
   "cratedelight:recipes/building_blocks/red_mushroom_crate": {
     "criteria": {
       "has_red_mushroom": "2025-07-04 01:45:37 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/strawberry_bag": {
+    "criteria": {
+      "has_strawberry": "2025-07-04 02:05:56 +0000"
     },
     "done": true
   },
@@ -6508,6 +6546,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/combat/leaf_leggings": {
+    "criteria": {
+      "has_leaves": "2025-07-04 02:05:03 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/cooked_calamari_from_campfire_cooking": {
     "criteria": {
       "has_calamari": "2025-07-04 00:21:13 +0000"
@@ -6523,6 +6567,18 @@
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-07-04 00:44:50 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_chestplate": {
+    "criteria": {
+      "has_leaves": "2025-07-04 02:05:03 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_boots": {
+    "criteria": {
+      "has_leaves": "2025-07-04 02:05:03 +0000"
     },
     "done": true
   },
