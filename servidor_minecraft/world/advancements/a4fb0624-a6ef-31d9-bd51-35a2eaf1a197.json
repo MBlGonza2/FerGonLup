@@ -6413,6 +6413,12 @@
     },
     "done": false
   },
+  "rusticdelight:recipes/misc/cotton_seeds_bag_from_cotton_seeds": {
+    "criteria": {
+      "has_cotton_seeds": "2025-07-04 03:06:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-07-04 02:20:25 +0000"
@@ -6470,6 +6476,12 @@
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-07-04 01:03:12 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/cotton_boll_crate_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-07-04 03:07:19 +0000"
     },
     "done": true
   },
@@ -6564,6 +6576,12 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/onion_bag": {
+    "criteria": {
+      "has_onion": "2025-07-04 03:07:35 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/strawberry_bag": {
     "criteria": {
       "has_strawberry": "2025-07-04 02:05:56 +0000"
@@ -6573,6 +6591,12 @@
   "farmersdelight:recipes/cooking/bone_kebab_slime": {
     "criteria": {
       "has_any_ingredient": "2025-07-04 02:25:13 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/string_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-07-04 03:07:19 +0000"
     },
     "done": true
   },
@@ -6606,6 +6630,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/misc/paper_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-07-04 03:07:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-07-04 01:22:03 +0000"
@@ -6615,6 +6645,12 @@
   "moredelight:recipes/food/chicken_sandwich_with_egg_and_tomato": {
     "criteria": {
       "has_cooked_chicken": "2025-07-04 01:44:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 03:06:06 +0000"
     },
     "done": true
   },
@@ -6684,6 +6720,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/misc/canvas_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-07-04 03:07:19 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/cooked_calamari_from_campfire_cooking": {
     "criteria": {
       "has_calamari": "2025-07-04 00:21:13 +0000"
@@ -6711,6 +6753,12 @@
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-07-04 00:44:50 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/cooking_oil": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 03:06:45 +0000"
     },
     "done": true
   },
@@ -6747,6 +6795,12 @@
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2025-07-04 01:44:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-07-04 03:06:06 +0000"
     },
     "done": true
   },
