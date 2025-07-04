@@ -686,6 +686,7 @@
       "minecraft:lush_caves": "2025-07-04 02:52:54 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-02 21:31:55 +0000",
       "minecraft:snowy_beach": "2025-07-04 03:16:25 +0000",
+      "minecraft:meadow": "2025-07-04 03:30:35 +0000",
       "minecraft:plains": "2025-07-01 03:31:33 +0000"
     },
     "done": false
@@ -7625,6 +7626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-07-04 03:39:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_kebab_slimeapple": {
     "criteria": {
       "has_any_ingredient": "2025-07-04 02:34:50 +0000"
@@ -7646,6 +7653,24 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-07-03 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-04 03:39:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2025-07-04 03:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-04 03:39:09 +0000"
     },
     "done": true
   },
@@ -7676,6 +7701,18 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-04 03:39:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_blackstone_pillar_trim": "2025-07-04 03:39:09 +0000"
     },
     "done": true
   },
@@ -7745,6 +7782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-07-04 03:39:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_salmon_slice": {
     "criteria": {
       "cooked_salmon_slice": "2025-07-04 00:11:00 +0000"
@@ -7754,6 +7797,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-07-03 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-04 03:39:09 +0000"
     },
     "done": true
   },
@@ -7793,9 +7842,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-07-04 03:39:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-07-04 01:30:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-04 03:39:09 +0000"
     },
     "done": true
   },
@@ -7835,6 +7896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-07-04 03:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-07-03 23:14:07 +0000"
@@ -7844,6 +7911,18 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-07-03 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-04 03:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-04 03:40:23 +0000"
     },
     "done": true
   },
@@ -7868,6 +7947,12 @@
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2025-07-04 01:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-04 03:39:09 +0000"
     },
     "done": true
   },
@@ -7910,6 +7995,12 @@
   "rusticdelight:recipes/misc/paper_from_cotton_boll": {
     "criteria": {
       "has_cotton_boll": "2025-07-04 02:42:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_blackstone_corner_trim": "2025-07-04 03:39:09 +0000"
     },
     "done": true
   },
@@ -7973,9 +8064,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-04 03:39:09 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/deku_leaf": {
     "criteria": {
       "has_paragliders": "2025-07-04 00:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-04 03:39:09 +0000"
     },
     "done": true
   },
@@ -8009,6 +8112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-04 03:39:09 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/tools/empty_gold_canteen": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 00:20:01 +0000"
@@ -8033,6 +8142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-04 03:40:23 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/misc/canvas_from_cotton_boll": {
     "criteria": {
       "has_cotton_boll": "2025-07-04 02:42:54 +0000"
@@ -8042,6 +8157,12 @@
   "rusticdelight:recipes/food/cooked_calamari_from_campfire_cooking": {
     "criteria": {
       "has_calamari": "2025-07-03 23:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-07-04 03:39:09 +0000"
     },
     "done": true
   },
@@ -8069,9 +8190,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-04 03:39:09 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/combat/leaf_boots": {
     "criteria": {
       "has_leaves": "2025-07-04 00:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-04 03:39:09 +0000"
     },
     "done": true
   },
@@ -8096,6 +8229,12 @@
   "paraglider:recipes/misc/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2025-07-04 00:27:56 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2025-07-04 03:39:09 +0000"
     },
     "done": true
   },
@@ -8138,6 +8277,12 @@
   "moredelight:recipes/cooking/creamy_pasta_with_ham": {
     "criteria": {
       "has_any_ingredient": "2025-07-04 00:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-04 03:39:09 +0000"
     },
     "done": true
   },

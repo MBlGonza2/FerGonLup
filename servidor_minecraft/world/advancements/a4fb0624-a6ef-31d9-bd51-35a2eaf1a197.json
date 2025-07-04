@@ -6559,6 +6559,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-07-04 03:39:55 +0000"
+    },
+    "done": true
+  },
   "frightsdelight:recipes/building_blocks/web_crate": {
     "criteria": {
       "has_cobweb": "2025-07-04 02:25:57 +0000"
@@ -6616,6 +6622,12 @@
   "rusticdelight:recipes/misc/string_from_cotton_boll": {
     "criteria": {
       "has_cotton_boll": "2025-07-04 03:07:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-07-04 03:39:55 +0000"
     },
     "done": true
   },
