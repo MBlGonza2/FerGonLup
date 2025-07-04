@@ -7749,6 +7749,12 @@
     },
     "done": true
   },
+  "smallships:recipes/combat/cannon": {
+    "criteria": {
+      "has_ship": "2025-07-04 00:56:45 +0000"
+    },
+    "done": true
+  },
   "reinfbarrel:recipes/decorations/gold_barrel": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 00:20:01 +0000"
