@@ -7628,6 +7628,12 @@
     },
     "done": true
   },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-07-04 00:27:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-07-03 23:14:07 +0000"
@@ -7796,6 +7802,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-07-04 00:27:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-07-03 23:14:07 +0000"
@@ -7844,6 +7856,12 @@
     },
     "done": true
   },
+  "moredelight:main/get_cooked_rice_with": {
+    "criteria": {
+      "cooked_rice_with_beef": "2025-07-04 00:31:55 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/combat/leaf_chestplate": {
     "criteria": {
       "has_leaves": "2025-07-04 00:14:47 +0000"
@@ -7865,6 +7883,12 @@
   "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
     "criteria": {
       "cooked_cod_slice": "2025-07-04 00:11:00 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-07-04 00:27:56 +0000"
     },
     "done": true
   },

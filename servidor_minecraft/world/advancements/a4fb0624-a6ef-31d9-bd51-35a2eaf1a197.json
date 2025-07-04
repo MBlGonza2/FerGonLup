@@ -6387,9 +6387,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-07-04 00:37:18 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/calamari_roll": {
+    "criteria": {
+      "has_cooked_rice": "2025-07-04 00:31:08 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/cooked_calamari": {
     "criteria": {
       "has_calamari": "2025-07-04 00:21:13 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-07-04 00:28:03 +0000"
     },
     "done": true
   },
@@ -6405,9 +6423,33 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-07-04 00:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-07-04 00:37:18 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/cooked_calamari_from_campfire_cooking": {
     "criteria": {
       "has_calamari": "2025-07-04 00:21:13 +0000"
+    },
+    "done": true
+  },
+  "moredelight:main/get_cooked_rice_with": {
+    "criteria": {
+      "cooked_rice_with_beef": "2025-07-04 00:31:49 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-07-04 00:28:03 +0000"
     },
     "done": true
   },
