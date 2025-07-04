@@ -7581,6 +7581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-07-04 01:36:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
     "criteria": {
       "has_spruce_leaves": "2025-07-04 00:14:47 +0000"
@@ -7707,6 +7713,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-04 01:30:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 00:20:01 +0000"
@@ -7755,6 +7767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-07-04 01:43:12 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/combat/cannon": {
     "criteria": {
       "has_ship": "2025-07-04 00:56:45 +0000"
@@ -7764,6 +7782,12 @@
   "reinfbarrel:recipes/decorations/gold_barrel": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-07-04 01:36:31 +0000"
     },
     "done": true
   },
@@ -7932,6 +7956,12 @@
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-04 01:30:32 +0000"
     },
     "done": true
   },
