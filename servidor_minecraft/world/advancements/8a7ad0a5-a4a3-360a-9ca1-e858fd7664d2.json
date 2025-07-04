@@ -7719,6 +7719,12 @@
     },
     "done": true
   },
+  "cratedelight:recipes/building_blocks/red_mushroom_crate": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-04 01:24:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-07-04 00:11:00 +0000"
