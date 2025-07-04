@@ -7803,6 +7803,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
+    "criteria": {
+      "has_birch_leaves": "2025-07-04 01:17:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cod_roll": {
     "criteria": {
       "has_cod_slice": "2025-07-04 00:11:00 +0000"

@@ -6089,7 +6089,8 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
-      "shepherds_pie": "2025-07-02 21:13:59 +0000"
+      "shepherds_pie": "2025-07-02 21:13:59 +0000",
+      "bone_broth": "2025-07-04 01:03:12 +0000"
     },
     "done": false
   },
@@ -6408,6 +6409,12 @@
   "paraglider:paraglider": {
     "criteria": {
       "paraglider": "2025-07-04 00:28:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-07-04 01:03:12 +0000"
     },
     "done": true
   },
