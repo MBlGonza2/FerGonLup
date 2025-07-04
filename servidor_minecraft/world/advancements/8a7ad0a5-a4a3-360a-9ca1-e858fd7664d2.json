@@ -7579,6 +7579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-04 02:18:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 00:20:01 +0000"
@@ -7600,6 +7606,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
     "criteria": {
       "has_spruce_leaves": "2025-07-04 00:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-07-04 02:17:52 +0000"
     },
     "done": true
   },
@@ -7720,6 +7732,12 @@
   "rusticdelight:recipes/food/cooked_calamari_from_smoking": {
     "criteria": {
       "has_calamari": "2025-07-03 23:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-04 02:18:45 +0000"
     },
     "done": true
   },
@@ -7846,6 +7864,12 @@
   "mcwlights:recipes/gold_stuff": {
     "criteria": {
       "has_wood": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-04 02:18:45 +0000"
     },
     "done": true
   },

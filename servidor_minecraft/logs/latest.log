@@ -24218,3 +24218,1076 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [02:11:32] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
 [02:11:32] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
 [02:11:34] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:11:42] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:11:42] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 63.23;  Old Health: 20.0; Default HP: 20.0
+[02:11:44] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 49.17;  Old Health: 20.0; Default HP: 20.0
+[02:11:44] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 57.27;  Old Health: 20.0; Default HP: 20.0
+[02:11:45] [Server thread/INFO]: [STDOUT]: minecraft:drowned; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:11:46] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 3.0; DamageFactor: 3.0; Health: 45.22;  Old Health: 20.0; Default HP: 20.0
+[02:11:46] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:11:48] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:11:48] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 46.4;  Old Health: 16.0; Default HP: 16.0
+[02:11:48] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 46.4;  Old Health: 16.0; Default HP: 16.0
+[02:11:48] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 46.4;  Old Health: 16.0; Default HP: 16.0
+[02:11:51] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.98;  Old Health: 20.0; Default HP: 20.0
+[02:11:53] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 15.2;  Old Health: 6.0; Default HP: 6.0
+[02:11:53] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 13.96;  Old Health: 6.0; Default HP: 6.0
+[02:11:55] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:11:55] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:11:55] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:11:55] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 52.11;  Old Health: 16.0; Default HP: 16.0
+[02:11:57] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 11.9;  Old Health: 6.0; Default HP: 6.0
+[02:12:00] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:02] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:03] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.85;  Old Health: 20.0; Default HP: 20.0
+[02:12:03] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:03] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 59.49;  Old Health: 20.0; Default HP: 20.0
+[02:12:04] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 80.31;  Old Health: 20.0; Default HP: 20.0
+[02:12:04] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 38.69;  Old Health: 20.0; Default HP: 20.0
+[02:12:04] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 46.4;  Old Health: 16.0; Default HP: 16.0
+[02:12:05] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:12:05] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:12:05] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:12:05] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 22.15;  Old Health: 10.0; Default HP: 10.0
+[02:12:06] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 21.06;  Old Health: 6.0; Default HP: 6.0
+[02:12:06] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.54;  Old Health: 20.0; Default HP: 20.0
+[02:12:07] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 60.84;  Old Health: 20.0; Default HP: 20.0
+[02:12:07] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:12:07] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:12:07] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:12:07] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:12:07] [Server thread/INFO]: [STDOUT]: minecraft:chicken; HealthFactor: 2.8; DamageFactor: 2.8; Health: 11.2;  Old Health: 4.0; Default HP: 4.0
+[02:12:07] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 47.62;  Old Health: 20.0; Default HP: 20.0
+[02:12:07] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:08] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 44.8;  Old Health: 16.0; Default HP: 16.0
+[02:12:08] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:09] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.9; DamageFactor: 2.9; Health: 116.0;  Old Health: 40.0; Default HP: 40.0
+[02:12:09] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 34.8;  Old Health: 12.0; Default HP: 12.0
+[02:12:10] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 80.48;  Old Health: 20.0; Default HP: 20.0
+[02:12:10] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.95;  Old Health: 20.0; Default HP: 20.0
+[02:12:10] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:10] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:13] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:13] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:13] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 59.27;  Old Health: 20.0; Default HP: 20.0
+[02:12:14] [Server thread/INFO]: [STDOUT]: minecraft:zombie_villager; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:16] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:12:17] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.41;  Old Health: 20.0; Default HP: 20.0
+[02:12:17] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 18.06;  Old Health: 6.0; Default HP: 6.0
+[02:12:18] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:19] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:12:19] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 22.55;  Old Health: 10.0; Default HP: 10.0
+[02:12:19] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:12:19] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:12:19] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 64.75;  Old Health: 20.0; Default HP: 20.0
+[02:12:20] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 36.7;  Old Health: 20.0; Default HP: 20.0
+[02:12:20] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:21] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 62.98;  Old Health: 20.0; Default HP: 20.0
+[02:12:22] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 3.0; DamageFactor: 3.0; Health: 36.0;  Old Health: 12.0; Default HP: 12.0
+[02:12:22] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:22] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 68.13;  Old Health: 20.0; Default HP: 20.0
+[02:12:23] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 22.98;  Old Health: 6.0; Default HP: 6.0
+[02:12:23] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:24] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.81; DamageFactor: 2.81; Health: 16.86;  Old Health: 6.0; Default HP: 6.0
+[02:12:24] [Server thread/INFO]: [STDOUT]: minecraft:horse; HealthFactor: 2.7; DamageFactor: 2.7; Health: 192.86;  Old Health: 53.0; Default HP: 53.0
+[02:12:24] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:24] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 62.43;  Old Health: 20.0; Default HP: 20.0
+[02:12:25] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 55.45;  Old Health: 20.0; Default HP: 20.0
+[02:12:25] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 51.96;  Old Health: 20.0; Default HP: 20.0
+[02:12:25] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 79.28;  Old Health: 20.0; Default HP: 20.0
+[02:12:25] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 60.42;  Old Health: 20.0; Default HP: 20.0
+[02:12:25] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 16.56;  Old Health: 10.0; Default HP: 10.0
+[02:12:25] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:12:25] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:12:25] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.26;  Old Health: 10.0; Default HP: 10.0
+[02:12:26] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 34.8;  Old Health: 12.0; Default HP: 12.0
+[02:12:26] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 31.56;  Old Health: 12.0; Default HP: 12.0
+[02:12:27] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:27] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 36.1;  Old Health: 10.0; Default HP: 10.0
+[02:12:27] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 31.54;  Old Health: 10.0; Default HP: 10.0
+[02:12:27] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.56;  Old Health: 10.0; Default HP: 10.0
+[02:12:27] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 22.69;  Old Health: 10.0; Default HP: 10.0
+[02:12:29] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 16.799999999999997;  Old Health: 6.0; Default HP: 6.0
+[02:12:31] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:31] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 79.65;  Old Health: 20.0; Default HP: 20.0
+[02:12:33] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 16.799999999999997;  Old Health: 6.0; Default HP: 6.0
+[02:12:33] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:33] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 50.29;  Old Health: 20.0; Default HP: 20.0
+[02:12:33] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 55.04;  Old Health: 16.0; Default HP: 16.0
+[02:12:33] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 38.59;  Old Health: 20.0; Default HP: 20.0
+[02:12:34] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 16.799999999999997;  Old Health: 6.0; Default HP: 6.0
+[02:12:34] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 16.799999999999997;  Old Health: 6.0; Default HP: 6.0
+[02:12:37] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 16.200000000000003;  Old Health: 6.0; Default HP: 6.0
+[02:12:37] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 21.72;  Old Health: 6.0; Default HP: 6.0
+[02:12:38] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:38] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 13.66;  Old Health: 6.0; Default HP: 6.0
+[02:12:39] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[02:12:40] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:40] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:40] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 68.6;  Old Health: 20.0; Default HP: 20.0
+[02:12:42] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 66.3;  Old Health: 20.0; Default HP: 20.0
+[02:12:42] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.81; DamageFactor: 2.81; Health: 42.07;  Old Health: 20.0; Default HP: 20.0
+[02:12:42] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 75.58;  Old Health: 20.0; Default HP: 20.0
+[02:12:42] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:42] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:42] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 44.99;  Old Health: 20.0; Default HP: 20.0
+[02:12:44] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 16.799999999999997;  Old Health: 6.0; Default HP: 6.0
+[02:12:45] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 41.72;  Old Health: 20.0; Default HP: 20.0
+[02:12:46] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 49.88;  Old Health: 20.0; Default HP: 20.0
+[02:12:46] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:49] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:49] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 68.93;  Old Health: 20.0; Default HP: 20.0
+[02:12:49] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:49] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:51] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:12:51] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:12:51] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:12:54] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 16.200000000000003;  Old Health: 6.0; Default HP: 6.0
+[02:12:54] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 16.200000000000003;  Old Health: 6.0; Default HP: 6.0
+[02:12:54] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 10.51;  Old Health: 6.0; Default HP: 6.0
+[02:12:54] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 16.200000000000003;  Old Health: 6.0; Default HP: 6.0
+[02:12:55] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:55] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 46.64;  Old Health: 20.0; Default HP: 20.0
+[02:12:55] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:58] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 34.8;  Old Health: 12.0; Default HP: 12.0
+[02:12:58] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:12:59] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 44.1;  Old Health: 20.0; Default HP: 20.0
+[02:13:00] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 32.07;  Old Health: 10.0; Default HP: 10.0
+[02:13:00] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.81; DamageFactor: 2.81; Health: 42.61;  Old Health: 20.0; Default HP: 20.0
+[02:13:01] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 51.95;  Old Health: 20.0; Default HP: 20.0
+[02:13:01] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:01] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:01] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:01] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 54.97;  Old Health: 20.0; Default HP: 20.0
+[02:13:04] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:04] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 43.92;  Old Health: 20.0; Default HP: 20.0
+[02:13:04] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:04] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.91; DamageFactor: 2.91; Health: 40.38;  Old Health: 20.0; Default HP: 20.0
+[02:13:04] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 48.43;  Old Health: 20.0; Default HP: 20.0
+[02:13:04] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 72.68;  Old Health: 20.0; Default HP: 20.0
+[02:13:09] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 25.41;  Old Health: 10.0; Default HP: 10.0
+[02:13:09] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:13:09] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 28.15;  Old Health: 10.0; Default HP: 10.0
+[02:13:09] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 31.44;  Old Health: 10.0; Default HP: 10.0
+[02:13:09] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:10] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:10] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 39.49;  Old Health: 20.0; Default HP: 20.0
+[02:13:10] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:10] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 63.61;  Old Health: 20.0; Default HP: 20.0
+[02:13:13] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:13:13] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:13:15] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 14.52;  Old Health: 6.0; Default HP: 6.0
+[02:13:15] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.08;  Old Health: 6.0; Default HP: 6.0
+[02:13:15] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:13:18] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 68.61;  Old Health: 20.0; Default HP: 20.0
+[02:13:18] [Server thread/INFO]: [STDOUT]: minecraft:chicken; HealthFactor: 2.7; DamageFactor: 2.7; Health: 10.8;  Old Health: 4.0; Default HP: 4.0
+[02:13:18] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 48.38;  Old Health: 20.0; Default HP: 20.0
+[02:13:18] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 43.03;  Old Health: 20.0; Default HP: 20.0
+[02:13:20] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 34.8;  Old Health: 12.0; Default HP: 12.0
+[02:13:20] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 34.8;  Old Health: 12.0; Default HP: 12.0
+[02:13:20] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:21] [Server thread/INFO]: [STDOUT]: minecraft:chicken; HealthFactor: 2.7; DamageFactor: 2.7; Health: 10.92;  Old Health: 4.0; Default HP: 4.0
+[02:13:21] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:21] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 71.07;  Old Health: 20.0; Default HP: 20.0
+[02:13:24] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:26] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:27] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:27] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 45.17;  Old Health: 20.0; Default HP: 20.0
+[02:13:28] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:13:28] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 21.0;  Old Health: 10.0; Default HP: 10.0
+[02:13:30] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 14.35;  Old Health: 6.0; Default HP: 6.0
+[02:13:31] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:31] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:31] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 40.99;  Old Health: 12.0; Default HP: 12.0
+[02:13:34] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 96.0; Default HP: 20.0
+[02:13:34] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:34] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:34] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 62.68;  Old Health: 20.0; Default HP: 20.0
+[02:13:34] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 31.23;  Old Health: 10.0; Default HP: 10.0
+[02:13:34] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 38.62;  Old Health: 10.0; Default HP: 10.0
+[02:13:34] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 28.1;  Old Health: 10.0; Default HP: 10.0
+[02:13:34] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 28.1;  Old Health: 10.0; Default HP: 10.0
+[02:13:35] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 16.799999999999997;  Old Health: 6.0; Default HP: 6.0
+[02:13:35] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 14.52;  Old Health: 6.0; Default HP: 6.0
+[02:13:35] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 20.04;  Old Health: 6.0; Default HP: 6.0
+[02:13:39] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:39] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:40] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 28.21;  Old Health: 12.0; Default HP: 12.0
+[02:13:40] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 54.04;  Old Health: 20.0; Default HP: 20.0
+[02:13:40] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:41] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:41] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 96.0; Default HP: 20.0
+[02:13:41] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:46] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 3.0; DamageFactor: 3.0; Health: 22.51;  Old Health: 6.0; Default HP: 6.0
+[02:13:51] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:51] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 62.59;  Old Health: 20.0; Default HP: 20.0
+[02:13:51] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:51] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 43.91;  Old Health: 20.0; Default HP: 20.0
+[02:13:52] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:52] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:52] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:53] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 60.02;  Old Health: 20.0; Default HP: 20.0
+[02:13:53] [Server thread/INFO]: [STDOUT]: minecraft:zombie_villager; HealthFactor: 2.9; DamageFactor: 2.9; Health: 76.43;  Old Health: 20.0; Default HP: 20.0
+[02:13:53] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 55.29;  Old Health: 20.0; Default HP: 20.0
+[02:13:55] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:55] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:55] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:56] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 3.0; DamageFactor: 3.0; Health: 22.01;  Old Health: 6.0; Default HP: 6.0
+[02:13:57] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 56.06;  Old Health: 20.0; Default HP: 20.0
+[02:13:57] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:57] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.81; DamageFactor: 2.81; Health: 56.2;  Old Health: 20.0; Default HP: 20.0
+[02:13:57] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.81; DamageFactor: 2.81; Health: 56.2;  Old Health: 20.0; Default HP: 20.0
+[02:13:57] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:57] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 44.8;  Old Health: 16.0; Default HP: 16.0
+[02:13:58] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 3.0; DamageFactor: 3.0; Health: 18.0;  Old Health: 6.0; Default HP: 6.0
+[02:13:58] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 79.62;  Old Health: 20.0; Default HP: 20.0
+[02:13:58] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:59] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.81; DamageFactor: 2.81; Health: 16.86;  Old Health: 6.0; Default HP: 6.0
+[02:13:59] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 34.8;  Old Health: 12.0; Default HP: 12.0
+[02:13:59] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 47.42;  Old Health: 12.0; Default HP: 12.0
+[02:13:59] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 46.4;  Old Health: 16.0; Default HP: 16.0
+[02:13:59] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:13:59] [Server thread/INFO]: [STDOUT]: minecraft:bee; HealthFactor: 2.7; DamageFactor: 2.7; Health: 36.03;  Old Health: 17.28; Default HP: 10.0
+[02:14:00] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 41.14;  Old Health: 20.0; Default HP: 20.0
+[02:14:00] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:00] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:00] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 3.0; DamageFactor: 3.0; Health: 82.58;  Old Health: 20.0; Default HP: 20.0
+[02:14:00] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 3.0; DamageFactor: 3.0; Health: 49.16;  Old Health: 20.0; Default HP: 20.0
+[02:14:00] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:14:00] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 20.92;  Old Health: 6.0; Default HP: 6.0
+[02:14:00] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 30.6;  Old Health: 10.0; Default HP: 10.0
+[02:14:00] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:14:00] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.13;  Old Health: 10.0; Default HP: 10.0
+[02:14:00] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 31.94;  Old Health: 10.0; Default HP: 10.0
+[02:14:01] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:01] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 63.29;  Old Health: 20.0; Default HP: 20.0
+[02:14:02] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 44.8;  Old Health: 16.0; Default HP: 16.0
+[02:14:11] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 28.1;  Old Health: 10.0; Default HP: 10.0
+[02:14:11] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 28.1;  Old Health: 10.0; Default HP: 10.0
+[02:14:11] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 35.65;  Old Health: 10.0; Default HP: 10.0
+[02:14:11] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 28.1;  Old Health: 10.0; Default HP: 10.0
+[02:14:15] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:14:15] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:14:18] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 16.799999999999997;  Old Health: 6.0; Default HP: 6.0
+[02:14:19] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:14:21] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.7; DamageFactor: 2.7; Health: 57.45;  Old Health: 16.0; Default HP: 16.0
+[02:14:23] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 46.46;  Old Health: 16.0; Default HP: 16.0
+[02:14:23] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:23] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 77.86;  Old Health: 20.0; Default HP: 20.0
+[02:14:23] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 74.3;  Old Health: 20.0; Default HP: 20.0
+[02:14:23] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:23] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 20.05;  Old Health: 6.0; Default HP: 6.0
+[02:14:24] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 16.200000000000003;  Old Health: 6.0; Default HP: 6.0
+[02:14:24] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:24] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.71; DamageFactor: 2.71; Health: 54.2;  Old Health: 20.0; Default HP: 20.0
+[02:14:27] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:27] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 62.43;  Old Health: 20.0; Default HP: 20.0
+[02:14:27] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.9; DamageFactor: 2.9; Health: 116.0;  Old Health: 40.0; Default HP: 40.0
+[02:14:29] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 75.5;  Old Health: 20.0; Default HP: 20.0
+[02:14:29] [Server thread/INFO]: [STDOUT]: minecraft:chicken; HealthFactor: 2.7; DamageFactor: 2.7; Health: 10.8;  Old Health: 4.0; Default HP: 4.0
+[02:14:30] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:30] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:30] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 20.32;  Old Health: 6.0; Default HP: 6.0
+[02:14:31] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:32] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 33.599999999999994;  Old Health: 12.0; Default HP: 12.0
+[02:14:32] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:32] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:32] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:32] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:32] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 3.0; DamageFactor: 3.0; Health: 151.43;  Old Health: 40.0; Default HP: 40.0
+[02:14:32] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 21.15;  Old Health: 6.0; Default HP: 6.0
+[02:14:32] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 19.57;  Old Health: 6.0; Default HP: 6.0
+[02:14:33] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:33] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:34] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 23.48;  Old Health: 10.0; Default HP: 10.0
+[02:14:34] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:34] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 3.0; DamageFactor: 3.0; Health: 58.18;  Old Health: 16.0; Default HP: 16.0
+[02:14:34] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.71; DamageFactor: 2.71; Health: 32.519999999999996;  Old Health: 12.0; Default HP: 12.0
+[02:14:34] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 57.02;  Old Health: 20.0; Default HP: 20.0
+[02:14:34] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 3.0; DamageFactor: 3.0; Health: 43.03;  Old Health: 20.0; Default HP: 20.0
+[02:14:35] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.7; DamageFactor: 2.7; Health: 29.62;  Old Health: 12.0; Default HP: 12.0
+[02:14:35] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 3.0; DamageFactor: 3.0; Health: 36.0;  Old Health: 12.0; Default HP: 12.0
+[02:14:35] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 3.0; DamageFactor: 3.0; Health: 26.39;  Old Health: 12.0; Default HP: 12.0
+[02:14:35] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 3.0; DamageFactor: 3.0; Health: 36.0;  Old Health: 12.0; Default HP: 12.0
+[02:14:35] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 3.0; DamageFactor: 3.0; Health: 71.86;  Old Health: 20.0; Default HP: 20.0
+[02:14:37] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:14:37] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:14:37] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:14:37] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:14:37] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 80.82;  Old Health: 20.0; Default HP: 20.0
+[02:14:37] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:37] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 61.74;  Old Health: 20.0; Default HP: 20.0
+[02:14:37] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:37] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:14:39] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 32.96;  Old Health: 20.0; Default HP: 20.0
+[02:14:39] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 69.98;  Old Health: 20.0; Default HP: 20.0
+[02:14:40] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:40] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:40] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:41] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:41] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:41] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 48.04;  Old Health: 20.0; Default HP: 20.0
+[02:14:41] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:14:48] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.91; DamageFactor: 2.91; Health: 17.46;  Old Health: 6.0; Default HP: 6.0
+[02:14:48] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.91; DamageFactor: 2.91; Health: 17.46;  Old Health: 6.0; Default HP: 6.0
+[02:14:48] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 17.72;  Old Health: 10.0; Default HP: 10.0
+[02:14:49] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 28.1;  Old Health: 10.0; Default HP: 10.0
+[02:14:49] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 31.98;  Old Health: 10.0; Default HP: 10.0
+[02:14:49] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 28.1;  Old Health: 10.0; Default HP: 10.0
+[02:14:49] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 28.1;  Old Health: 10.0; Default HP: 10.0
+[02:14:54] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 21.74;  Old Health: 10.0; Default HP: 10.0
+[02:14:54] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 32.56;  Old Health: 10.0; Default HP: 10.0
+[02:14:54] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:14:54] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:15:03] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:03] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 41.55;  Old Health: 20.0; Default HP: 20.0
+[02:15:03] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:03] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 49.95;  Old Health: 16.0; Default HP: 16.0
+[02:15:06] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 45.36;  Old Health: 20.0; Default HP: 20.0
+[02:15:06] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 61.91;  Old Health: 20.0; Default HP: 20.0
+[02:15:06] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:08] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.71; DamageFactor: 2.71; Health: 54.2;  Old Health: 20.0; Default HP: 20.0
+[02:15:08] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:09] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 45.45;  Old Health: 20.0; Default HP: 20.0
+[02:15:09] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 46.4;  Old Health: 16.0; Default HP: 16.0
+[02:15:09] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 15.82;  Old Health: 6.0; Default HP: 6.0
+[02:15:09] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 16.799999999999997;  Old Health: 6.0; Default HP: 6.0
+[02:15:14] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.71; DamageFactor: 2.71; Health: 16.259999999999998;  Old Health: 6.0; Default HP: 6.0
+[02:15:15] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 16.799999999999997;  Old Health: 6.0; Default HP: 6.0
+[02:15:15] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 16.799999999999997;  Old Health: 6.0; Default HP: 6.0
+[02:15:15] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 3.0; DamageFactor: 3.0; Health: 43.49;  Old Health: 20.0; Default HP: 20.0
+[02:15:15] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:15] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:16] [Server thread/INFO]: [STDOUT]: minecraft:drowned; HealthFactor: 2.81; DamageFactor: 2.81; Health: 56.2;  Old Health: 20.0; Default HP: 20.0
+[02:15:17] [Server thread/INFO]: [STDOUT]: minecraft:pillager; HealthFactor: 2.71; DamageFactor: 2.71; Health: 57.92;  Old Health: 24.0; Default HP: 24.0
+[02:15:17] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 50.79;  Old Health: 20.0; Default HP: 20.0
+[02:15:17] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 70.18;  Old Health: 20.0; Default HP: 20.0
+[02:15:17] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:17] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 32.11;  Old Health: 10.0; Default HP: 10.0
+[02:15:17] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:15:17] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 34.31;  Old Health: 10.0; Default HP: 10.0
+[02:15:19] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:19] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.79;  Old Health: 20.0; Default HP: 20.0
+[02:15:19] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:19] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:22] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:22] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 42.52;  Old Health: 20.0; Default HP: 20.0
+[02:15:22] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 75.82;  Old Health: 20.0; Default HP: 20.0
+[02:15:22] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 73.18;  Old Health: 20.0; Default HP: 20.0
+[02:15:23] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:23] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:23] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:23] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 47.16;  Old Health: 20.0; Default HP: 20.0
+[02:15:24] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 37.29;  Old Health: 20.0; Default HP: 20.0
+[02:15:24] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.71; DamageFactor: 2.71; Health: 54.2;  Old Health: 40.0; Default HP: 20.0
+[02:15:24] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 70.1;  Old Health: 20.0; Default HP: 20.0
+[02:15:24] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 59.09;  Old Health: 20.0; Default HP: 20.0
+[02:15:24] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.8; DamageFactor: 2.8; Health: 112.0;  Old Health: 40.0; Default HP: 40.0
+[02:15:24] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:24] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:24] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 3.0; DamageFactor: 3.0; Health: 40.69;  Old Health: 20.0; Default HP: 20.0
+[02:15:24] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 3.0; DamageFactor: 3.0; Health: 53.58;  Old Health: 20.0; Default HP: 20.0
+[02:15:24] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 3.0; DamageFactor: 3.0; Health: 48.0;  Old Health: 16.0; Default HP: 16.0
+[02:15:24] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 3.0; DamageFactor: 3.0; Health: 68.69;  Old Health: 20.0; Default HP: 20.0
+[02:15:27] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 22.35;  Old Health: 10.0; Default HP: 10.0
+[02:15:27] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 21.78;  Old Health: 10.0; Default HP: 10.0
+[02:15:27] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:15:30] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:31] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 78.2;  Old Health: 20.0; Default HP: 20.0
+[02:15:31] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:31] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 47.69;  Old Health: 20.0; Default HP: 20.0
+[02:15:32] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 16.200000000000003;  Old Health: 6.0; Default HP: 6.0
+[02:15:34] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:35] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.81; DamageFactor: 2.81; Health: 44.96;  Old Health: 16.0; Default HP: 16.0
+[02:15:35] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 77.75;  Old Health: 20.0; Default HP: 20.0
+[02:15:39] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.9; DamageFactor: 2.9; Health: 39.62;  Old Health: 10.0; Default HP: 10.0
+[02:15:39] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.9; DamageFactor: 2.9; Health: 29.0;  Old Health: 10.0; Default HP: 10.0
+[02:15:39] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.9; DamageFactor: 2.9; Health: 29.0;  Old Health: 10.0; Default HP: 10.0
+[02:15:39] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.9; DamageFactor: 2.9; Health: 22.75;  Old Health: 10.0; Default HP: 10.0
+[02:15:39] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:39] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 61.92;  Old Health: 20.0; Default HP: 20.0
+[02:15:39] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:41] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 11.5;  Old Health: 6.0; Default HP: 6.0
+[02:15:41] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 16.799999999999997;  Old Health: 6.0; Default HP: 6.0
+[02:15:42] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 16.799999999999997;  Old Health: 6.0; Default HP: 6.0
+[02:15:45] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:15:45] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 15.24;  Old Health: 6.0; Default HP: 6.0
+[02:15:45] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:15:45] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 20.75;  Old Health: 6.0; Default HP: 6.0
+[02:15:47] [Server thread/INFO]: Mxrtinzzkw tried to swim in lava
+[02:15:48] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 39.25;  Old Health: 20.0; Default HP: 20.0
+[02:15:50] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:50] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 71.99;  Old Health: 20.0; Default HP: 20.0
+[02:15:51] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 3.0; DamageFactor: 3.0; Health: 53.11;  Old Health: 20.0; Default HP: 20.0
+[02:15:51] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:52] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 58.31;  Old Health: 20.0; Default HP: 20.0
+[02:15:52] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 36.19;  Old Health: 10.0; Default HP: 10.0
+[02:15:52] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 17.76;  Old Health: 10.0; Default HP: 10.0
+[02:15:52] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 23.02;  Old Health: 10.0; Default HP: 10.0
+[02:15:52] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:15:53] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 44.43;  Old Health: 20.0; Default HP: 20.0
+[02:15:53] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 46.4;  Old Health: 16.0; Default HP: 16.0
+[02:15:56] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:56] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:56] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:56] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 44.7;  Old Health: 20.0; Default HP: 20.0
+[02:15:57] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 3.0; DamageFactor: 3.0; Health: 55.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:57] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 47.15;  Old Health: 20.0; Default HP: 20.0
+[02:15:57] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 58.25;  Old Health: 20.0; Default HP: 20.0
+[02:15:57] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:15:57] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:02] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 59.42;  Old Health: 20.0; Default HP: 20.0
+[02:16:02] [Server thread/INFO]: [STDOUT]: minecraft:drowned; HealthFactor: 2.9; DamageFactor: 2.9; Health: 68.39;  Old Health: 20.0; Default HP: 20.0
+[02:16:03] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 74.94;  Old Health: 20.0; Default HP: 20.0
+[02:16:04] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:04] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 80.44;  Old Health: 20.0; Default HP: 20.0
+[02:16:05] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:16:05] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:16:05] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:16:06] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 21.07;  Old Health: 6.0; Default HP: 6.0
+[02:16:06] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 11.18;  Old Health: 6.0; Default HP: 6.0
+[02:16:09] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 62.63;  Old Health: 20.0; Default HP: 20.0
+[02:16:09] [Server thread/INFO]: [STDOUT]: minecraft:drowned; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:09] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 71.08;  Old Health: 20.0; Default HP: 20.0
+[02:16:11] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:11] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 42.03;  Old Health: 20.0; Default HP: 20.0
+[02:16:14] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:14] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 33.73;  Old Health: 10.0; Default HP: 10.0
+[02:16:14] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:16:14] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 28.06;  Old Health: 10.0; Default HP: 10.0
+[02:16:16] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:16] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 36.29;  Old Health: 20.0; Default HP: 20.0
+[02:16:17] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:16:17] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:16:17] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 38.66;  Old Health: 10.0; Default HP: 10.0
+[02:16:17] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:16:19] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:19] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:16:22] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:22] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:22] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 58.82;  Old Health: 20.0; Default HP: 20.0
+[02:16:24] [Server thread/INFO]: [STDOUT]: minecraft:horse; HealthFactor: 2.71; DamageFactor: 2.71; Health: 143.63;  Old Health: 53.0; Default HP: 53.0
+[02:16:24] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.71; DamageFactor: 2.71; Health: 54.8;  Old Health: 20.0; Default HP: 20.0
+[02:16:24] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 16.200000000000003;  Old Health: 6.0; Default HP: 6.0
+[02:16:24] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 46.15;  Old Health: 20.0; Default HP: 20.0
+[02:16:27] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.7; DamageFactor: 2.7; Health: 41.54;  Old Health: 20.0; Default HP: 20.0
+[02:16:28] [Server thread/INFO]: Mxrtinzzkw claimed a grave belonging to Mxrtinzzkw at 87, 56, 87, minecraft:overworld
+[02:16:29] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 12.64;  Old Health: 6.0; Default HP: 6.0
+[02:16:29] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 12.74;  Old Health: 6.0; Default HP: 6.0
+[02:16:29] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 21.33;  Old Health: 6.0; Default HP: 6.0
+[02:16:29] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 13.5;  Old Health: 6.0; Default HP: 6.0
+[02:16:30] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 63.37;  Old Health: 20.0; Default HP: 20.0
+[02:16:30] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 55.98;  Old Health: 20.0; Default HP: 20.0
+[02:16:33] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 49.4;  Old Health: 20.0; Default HP: 20.0
+[02:16:34] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.81; DamageFactor: 2.81; Health: 44.96;  Old Health: 16.0; Default HP: 16.0
+[02:16:34] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:35] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.7; DamageFactor: 2.7; Health: 36.26;  Old Health: 20.0; Default HP: 20.0
+[02:16:35] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:35] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 27.37;  Old Health: 10.0; Default HP: 10.0
+[02:16:35] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 20.81;  Old Health: 10.0; Default HP: 10.0
+[02:16:35] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 28.1;  Old Health: 10.0; Default HP: 10.0
+[02:16:35] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 28.1;  Old Health: 10.0; Default HP: 10.0
+[02:16:36] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:36] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:41] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:41] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.7; DamageFactor: 2.7; Health: 36.18;  Old Health: 20.0; Default HP: 20.0
+[02:16:43] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 76.96;  Old Health: 20.0; Default HP: 20.0
+[02:16:43] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:44] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.29;  Old Health: 20.0; Default HP: 20.0
+[02:16:44] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 38.77;  Old Health: 20.0; Default HP: 20.0
+[02:16:44] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 78.01;  Old Health: 20.0; Default HP: 20.0
+[02:16:44] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:44] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:45] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 16.200000000000003;  Old Health: 6.0; Default HP: 6.0
+[02:16:46] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:16:46] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:16:50] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 34.8;  Old Health: 12.0; Default HP: 12.0
+[02:16:51] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:51] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:51] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:51] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 57.15;  Old Health: 20.0; Default HP: 20.0
+[02:16:53] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:53] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 16.799999999999997;  Old Health: 6.0; Default HP: 6.0
+[02:16:54] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:16:54] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 44.8;  Old Health: 16.0; Default HP: 16.0
+[02:16:54] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 52.45;  Old Health: 20.0; Default HP: 20.0
+[02:16:54] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:16:54] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:16:54] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:16:54] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:16:55] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:16:56] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 44.8;  Old Health: 16.0; Default HP: 16.0
+[02:16:56] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[02:16:58] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.7; DamageFactor: 2.7; Health: 46.49;  Old Health: 16.0; Default HP: 16.0
+[02:16:58] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 3.0; DamageFactor: 3.0; Health: 120.0;  Old Health: 120.0; Default HP: 40.0
+[02:16:58] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 69.22;  Old Health: 20.0; Default HP: 20.0
+[02:16:59] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 3.0; DamageFactor: 3.0; Health: 22.71;  Old Health: 6.0; Default HP: 6.0
+[02:16:59] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 14.32;  Old Health: 6.0; Default HP: 6.0
+[02:17:02] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:02] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:04] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:04] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 66.57;  Old Health: 20.0; Default HP: 20.0
+[02:17:05] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:05] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:06] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:17:06] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:17:10] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 51.32;  Old Health: 20.0; Default HP: 20.0
+[02:17:10] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 43.78;  Old Health: 20.0; Default HP: 20.0
+[02:17:10] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 50.68;  Old Health: 20.0; Default HP: 20.0
+[02:17:10] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:12] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:17:12] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:17:12] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:17:12] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:17:13] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 42.72;  Old Health: 20.0; Default HP: 20.0
+[02:17:15] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 64.93;  Old Health: 16.0; Default HP: 16.0
+[02:17:15] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 60.49;  Old Health: 16.0; Default HP: 16.0
+[02:17:16] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 26.25;  Old Health: 10.0; Default HP: 10.0
+[02:17:16] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 31.75;  Old Health: 10.0; Default HP: 10.0
+[02:17:16] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 35.57;  Old Health: 10.0; Default HP: 10.0
+[02:17:16] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 34.45;  Old Health: 10.0; Default HP: 10.0
+[02:17:17] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:17:17] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:17:17] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:17:17] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 37.11;  Old Health: 10.0; Default HP: 10.0
+[02:17:19] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:19] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 49.29;  Old Health: 20.0; Default HP: 20.0
+[02:17:19] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.81; DamageFactor: 2.81; Health: 53.04;  Old Health: 20.0; Default HP: 20.0
+[02:17:19] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.81; DamageFactor: 2.81; Health: 56.2;  Old Health: 20.0; Default HP: 20.0
+[02:17:22] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:24] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 41.43;  Old Health: 20.0; Default HP: 20.0
+[02:17:27] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:27] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 72.24;  Old Health: 20.0; Default HP: 20.0
+[02:17:29] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 45.78;  Old Health: 20.0; Default HP: 20.0
+[02:17:31] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:31] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 44.8;  Old Health: 16.0; Default HP: 16.0
+[02:17:31] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 38.12;  Old Health: 16.0; Default HP: 16.0
+[02:17:33] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 44.8;  Old Health: 16.0; Default HP: 16.0
+[02:17:34] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:36] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:36] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 73.25;  Old Health: 20.0; Default HP: 20.0
+[02:17:37] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:17:38] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:38] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 76.94;  Old Health: 20.0; Default HP: 20.0
+[02:17:38] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 64.31;  Old Health: 20.0; Default HP: 20.0
+[02:17:38] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:38] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:17:39] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 10.52;  Old Health: 6.0; Default HP: 6.0
+[02:17:39] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:17:39] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.55;  Old Health: 6.0; Default HP: 6.0
+[02:17:40] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 41.98;  Old Health: 12.0; Default HP: 12.0
+[02:17:42] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:42] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:43] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 58.77;  Old Health: 20.0; Default HP: 20.0
+[02:17:46] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 34.8;  Old Health: 12.0; Default HP: 12.0
+[02:17:46] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 70.54;  Old Health: 20.0; Default HP: 20.0
+[02:17:46] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:47] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:17:47] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:17:47] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:17:47] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:17:48] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:49] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 60.3;  Old Health: 20.0; Default HP: 20.0
+[02:17:50] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:50] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:50] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 45.28;  Old Health: 20.0; Default HP: 20.0
+[02:17:50] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:53] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 16.799999999999997;  Old Health: 6.0; Default HP: 6.0
+[02:17:53] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 16.799999999999997;  Old Health: 6.0; Default HP: 6.0
+[02:17:53] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:17:54] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.71; DamageFactor: 2.71; Health: 35.17;  Old Health: 20.0; Default HP: 20.0
+[02:17:54] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.71; DamageFactor: 2.71; Health: 35.38;  Old Health: 20.0; Default HP: 20.0
+[02:17:54] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.71; DamageFactor: 2.71; Health: 38.89;  Old Health: 20.0; Default HP: 20.0
+[02:18:01] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:02] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 20.41;  Old Health: 6.0; Default HP: 6.0
+[02:18:03] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 34.8;  Old Health: 12.0; Default HP: 12.0
+[02:18:03] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.9; DamageFactor: 2.9; Health: 103.77;  Old Health: 40.0; Default HP: 40.0
+[02:18:03] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.9; DamageFactor: 2.9; Health: 116.0;  Old Health: 40.0; Default HP: 40.0
+[02:18:04] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:18:10] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:18:10] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 23.0;  Old Health: 10.0; Default HP: 10.0
+[02:18:11] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 57.88;  Old Health: 20.0; Default HP: 20.0
+[02:18:11] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 3.0; DamageFactor: 3.0; Health: 17.72;  Old Health: 6.0; Default HP: 6.0
+[02:18:12] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.7; DamageFactor: 2.7; Health: 43.52;  Old Health: 20.0; Default HP: 20.0
+[02:18:12] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:12] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.7; DamageFactor: 2.7; Health: 74.45;  Old Health: 20.0; Default HP: 20.0
+[02:18:16] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.71; DamageFactor: 2.71; Health: 49.39;  Old Health: 20.0; Default HP: 20.0
+[02:18:17] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 16.200000000000003;  Old Health: 6.0; Default HP: 6.0
+[02:18:17] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 13.11;  Old Health: 6.0; Default HP: 6.0
+[02:18:17] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 15.96;  Old Health: 6.0; Default HP: 6.0
+[02:18:17] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 16.200000000000003;  Old Health: 6.0; Default HP: 6.0
+[02:18:18] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:18] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:18] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 47.06;  Old Health: 20.0; Default HP: 20.0
+[02:18:18] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 3.0; DamageFactor: 3.0; Health: 44.83;  Old Health: 20.0; Default HP: 20.0
+[02:18:18] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:18:18] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:18:18] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 26.9;  Old Health: 10.0; Default HP: 10.0
+[02:18:18] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 19.92;  Old Health: 10.0; Default HP: 10.0
+[02:18:20] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 61.72;  Old Health: 20.0; Default HP: 20.0
+[02:18:20] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:20] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:21] [Server thread/INFO]: [STDOUT]: minecraft:drowned; HealthFactor: 2.91; DamageFactor: 2.91; Health: 58.2;  Old Health: 20.0; Default HP: 20.0
+[02:18:21] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 34.8;  Old Health: 12.0; Default HP: 12.0
+[02:18:21] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 26.97;  Old Health: 12.0; Default HP: 12.0
+[02:18:24] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.71; DamageFactor: 2.71; Health: 54.2;  Old Health: 20.0; Default HP: 20.0
+[02:18:24] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 34.8;  Old Health: 12.0; Default HP: 12.0
+[02:18:26] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 44.65;  Old Health: 20.0; Default HP: 20.0
+[02:18:26] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 35.53;  Old Health: 20.0; Default HP: 20.0
+[02:18:27] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 34.8;  Old Health: 12.0; Default HP: 12.0
+[02:18:27] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 48.49;  Old Health: 12.0; Default HP: 12.0
+[02:18:27] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 47.28;  Old Health: 20.0; Default HP: 20.0
+[02:18:29] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 47.77;  Old Health: 20.0; Default HP: 20.0
+[02:18:30] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 3.0; DamageFactor: 3.0; Health: 64.77;  Old Health: 16.0; Default HP: 16.0
+[02:18:33] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 35.7;  Old Health: 10.0; Default HP: 10.0
+[02:18:33] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 31.06;  Old Health: 10.0; Default HP: 10.0
+[02:18:33] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:18:33] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:18:33] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:33] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:33] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 31.18;  Old Health: 16.0; Default HP: 16.0
+[02:18:36] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 33.599999999999994;  Old Health: 12.0; Default HP: 12.0
+[02:18:36] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:36] [Server thread/INFO]: [STDOUT]: minecraft:zombie_villager; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:36] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:37] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:37] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 38.97;  Old Health: 20.0; Default HP: 20.0
+[02:18:39] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 16.799999999999997;  Old Health: 6.0; Default HP: 6.0
+[02:18:40] [Server thread/INFO]: [STDOUT]: minecraft:drowned; HealthFactor: 2.81; DamageFactor: 2.81; Health: 56.2;  Old Health: 20.0; Default HP: 20.0
+[02:18:40] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 20.16;  Old Health: 6.0; Default HP: 6.0
+[02:18:41] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:42] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 62.73;  Old Health: 20.0; Default HP: 20.0
+[02:18:42] [Server thread/INFO]: [STDOUT]: minecraft:drowned; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:42] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 32.0;  Old Health: 10.0; Default HP: 10.0
+[02:18:42] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:18:44] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 45.47;  Old Health: 12.0; Default HP: 12.0
+[02:18:44] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 70.16;  Old Health: 20.0; Default HP: 20.0
+[02:18:45] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 34.8;  Old Health: 12.0; Default HP: 12.0
+[02:18:45] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:47] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:18:47] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:18:47] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:18:48] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:48] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 33.599999999999994;  Old Health: 12.0; Default HP: 12.0
+[02:18:50] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 33.599999999999994;  Old Health: 12.0; Default HP: 12.0
+[02:18:50] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 70.77;  Old Health: 20.0; Default HP: 20.0
+[02:18:51] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.71; DamageFactor: 2.71; Health: 54.2;  Old Health: 20.0; Default HP: 20.0
+[02:18:51] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.71; DamageFactor: 2.71; Health: 54.2;  Old Health: 20.0; Default HP: 20.0
+[02:18:51] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.71; DamageFactor: 2.71; Health: 54.2;  Old Health: 20.0; Default HP: 20.0
+[02:18:51] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.71; DamageFactor: 2.71; Health: 54.2;  Old Health: 20.0; Default HP: 20.0
+[02:18:54] [Server thread/INFO]: [STDOUT]: minecraft:witch; HealthFactor: 3.0; DamageFactor: 3.0; Health: 78.0;  Old Health: 26.0; Default HP: 26.0
+[02:18:55] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:55] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:55] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:58] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:58] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 57.29;  Old Health: 20.0; Default HP: 20.0
+[02:18:58] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 3.0; DamageFactor: 3.0; Health: 49.53;  Old Health: 20.0; Default HP: 20.0
+[02:18:58] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 3.0; DamageFactor: 3.0; Health: 73.9;  Old Health: 20.0; Default HP: 20.0
+[02:18:58] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 72.8;  Old Health: 20.0; Default HP: 20.0
+[02:18:58] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:18:58] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.81; DamageFactor: 2.81; Health: 75.83;  Old Health: 20.0; Default HP: 20.0
+[02:19:00] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 20.08;  Old Health: 10.0; Default HP: 10.0
+[02:19:00] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 28.1;  Old Health: 10.0; Default HP: 10.0
+[02:19:00] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 28.1;  Old Health: 10.0; Default HP: 10.0
+[02:19:00] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 22.0;  Old Health: 10.0; Default HP: 10.0
+[02:19:01] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:19:03] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.81; DamageFactor: 2.81; Health: 56.2;  Old Health: 20.0; Default HP: 20.0
+[02:19:04] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 71.24;  Old Health: 20.0; Default HP: 20.0
+[02:19:04] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 3.0; DamageFactor: 3.0; Health: 48.0;  Old Health: 16.0; Default HP: 16.0
+[02:19:06] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.81; DamageFactor: 2.81; Health: 56.2;  Old Health: 20.0; Default HP: 20.0
+[02:19:08] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 51.03;  Old Health: 20.0; Default HP: 20.0
+[02:19:08] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:19:08] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:19:08] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.03;  Old Health: 10.0; Default HP: 10.0
+[02:19:08] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 26.69;  Old Health: 10.0; Default HP: 10.0
+[02:19:09] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 38.15;  Old Health: 20.0; Default HP: 20.0
+[02:19:10] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 44.8;  Old Health: 16.0; Default HP: 16.0
+[02:19:10] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 55.12;  Old Health: 20.0; Default HP: 20.0
+[02:19:10] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.81; DamageFactor: 2.81; Health: 56.2;  Old Health: 20.0; Default HP: 20.0
+[02:19:11] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:19:11] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:19:11] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.7; DamageFactor: 2.7; Health: 43.2;  Old Health: 16.0; Default HP: 16.0
+[02:19:16] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 64.01;  Old Health: 20.0; Default HP: 20.0
+[02:19:16] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 3.0; DamageFactor: 3.0; Health: 18.0;  Old Health: 6.0; Default HP: 6.0
+[02:19:16] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 3.0; DamageFactor: 3.0; Health: 18.0;  Old Health: 6.0; Default HP: 6.0
+[02:19:17] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 3.0; DamageFactor: 3.0; Health: 76.05;  Old Health: 20.0; Default HP: 20.0
+[02:19:17] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.7; DamageFactor: 2.7; Health: 32.400000000000006;  Old Health: 12.0; Default HP: 12.0
+[02:19:17] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:19:17] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:19:18] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.91; DamageFactor: 2.91; Health: 58.2;  Old Health: 20.0; Default HP: 20.0
+[02:19:18] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.91; DamageFactor: 2.91; Health: 58.2;  Old Health: 20.0; Default HP: 20.0
+[02:19:18] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.91; DamageFactor: 2.91; Health: 58.2;  Old Health: 20.0; Default HP: 20.0
+[02:19:18] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.91; DamageFactor: 2.91; Health: 58.2;  Old Health: 20.0; Default HP: 20.0
+[02:19:20] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.71; DamageFactor: 2.71; Health: 16.259999999999998;  Old Health: 6.0; Default HP: 6.0
+[02:19:20] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.71; DamageFactor: 2.71; Health: 16.259999999999998;  Old Health: 6.0; Default HP: 6.0
+[02:19:21] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 20.56;  Old Health: 6.0; Default HP: 6.0
+[02:19:21] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 21.76;  Old Health: 6.0; Default HP: 6.0
+[02:19:23] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 58.5;  Old Health: 20.0; Default HP: 20.0
+[02:19:24] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 53.38;  Old Health: 20.0; Default HP: 20.0
+[02:19:24] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 3.0; DamageFactor: 3.0; Health: 52.12;  Old Health: 20.0; Default HP: 20.0
+[02:19:25] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 63.43;  Old Health: 20.0; Default HP: 20.0
+[02:19:26] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:19:28] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 19.17;  Old Health: 6.0; Default HP: 6.0
+[02:19:28] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.26;  Old Health: 6.0; Default HP: 6.0
+[02:19:29] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 12.27;  Old Health: 6.0; Default HP: 6.0
+[02:19:29] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 15.55;  Old Health: 6.0; Default HP: 6.0
+[02:19:29] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 14.94;  Old Health: 6.0; Default HP: 6.0
+[02:19:29] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.66;  Old Health: 6.0; Default HP: 6.0
+[02:19:29] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 36.57;  Old Health: 20.0; Default HP: 20.0
+[02:19:29] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 49.3;  Old Health: 20.0; Default HP: 20.0
+[02:19:30] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 66.65;  Old Health: 20.0; Default HP: 20.0
+[02:19:30] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 46.4;  Old Health: 16.0; Default HP: 16.0
+[02:19:33] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.71; DamageFactor: 2.71; Health: 54.2;  Old Health: 20.0; Default HP: 20.0
+[02:19:34] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:19:34] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:19:34] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 34.68;  Old Health: 10.0; Default HP: 10.0
+[02:19:34] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:19:34] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:19:34] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 20.16;  Old Health: 10.0; Default HP: 10.0
+[02:19:34] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 28.78;  Old Health: 10.0; Default HP: 10.0
+[02:19:34] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:19:34] [Server thread/INFO]: [STDOUT]: minecraft:pillager; HealthFactor: 2.71; DamageFactor: 2.71; Health: 65.03999999999999;  Old Health: 24.0; Default HP: 24.0
+[02:19:34] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 67.44;  Old Health: 20.0; Default HP: 20.0
+[02:19:35] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:19:35] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 44.78;  Old Health: 20.0; Default HP: 20.0
+[02:19:36] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 36.6;  Old Health: 20.0; Default HP: 20.0
+[02:19:37] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.81; DamageFactor: 2.81; Health: 65.33;  Old Health: 20.0; Default HP: 20.0
+[02:19:37] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.81; DamageFactor: 2.81; Health: 56.2;  Old Health: 20.0; Default HP: 20.0
+[02:19:40] [Server thread/INFO]: [STDOUT]: minecraft:cat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 72.9;  Old Health: 27.0; Default HP: 10.0
+[02:19:42] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[02:19:43] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 71.53;  Old Health: 20.0; Default HP: 20.0
+[02:19:43] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 53.08;  Old Health: 20.0; Default HP: 20.0
+[02:19:44] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 72.23;  Old Health: 20.0; Default HP: 20.0
+[02:19:48] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.81; DamageFactor: 2.81; Health: 56.2;  Old Health: 20.0; Default HP: 20.0
+[02:19:48] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.81; DamageFactor: 2.81; Health: 56.2;  Old Health: 20.0; Default HP: 20.0
+[02:19:49] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 26.27;  Old Health: 12.0; Default HP: 12.0
+[02:19:52] [Server thread/INFO]: [STDOUT]: minecraft:pillager; HealthFactor: 2.71; DamageFactor: 2.71; Health: 65.03999999999999;  Old Health: 24.0; Default HP: 24.0
+[02:19:52] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 48.77;  Old Health: 40.0; Default HP: 20.0
+[02:19:53] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:19:53] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:19:55] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.71; DamageFactor: 2.71; Health: 32.2;  Old Health: 16.0; Default HP: 16.0
+[02:19:55] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.81; DamageFactor: 2.81; Health: 22.56;  Old Health: 6.0; Default HP: 6.0
+[02:19:55] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 36.92;  Old Health: 20.0; Default HP: 20.0
+[02:19:55] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:19:55] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 37.77;  Old Health: 20.0; Default HP: 20.0
+[02:19:55] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 68.17;  Old Health: 20.0; Default HP: 20.0
+[02:19:56] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:19:56] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.71; DamageFactor: 2.71; Health: 54.2;  Old Health: 20.0; Default HP: 20.0
+[02:19:56] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:19:56] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:19:56] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:19:56] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:19:56] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 16.68;  Old Health: 6.0; Default HP: 6.0
+[02:19:56] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:19:56] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:19:57] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 55.46;  Old Health: 20.0; Default HP: 20.0
+[02:19:57] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:19:58] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:19:58] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:19:59] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 38.05;  Old Health: 20.0; Default HP: 20.0
+[02:19:59] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:19:59] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 34.8;  Old Health: 12.0; Default HP: 12.0
+[02:19:59] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 33.599999999999994;  Old Health: 12.0; Default HP: 12.0
+[02:20:02] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:02] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:05] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.81; DamageFactor: 2.81; Health: 50.01;  Old Health: 20.0; Default HP: 20.0
+[02:20:05] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 49.7;  Old Health: 20.0; Default HP: 20.0
+[02:20:05] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 40.95;  Old Health: 20.0; Default HP: 20.0
+[02:20:07] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 47.56;  Old Health: 20.0; Default HP: 20.0
+[02:20:07] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 68.75;  Old Health: 20.0; Default HP: 20.0
+[02:20:08] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:08] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:08] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 26.04;  Old Health: 10.0; Default HP: 10.0
+[02:20:08] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:20:08] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 32.0;  Old Health: 10.0; Default HP: 10.0
+[02:20:08] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 32.04;  Old Health: 10.0; Default HP: 10.0
+[02:20:08] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 3.0; DamageFactor: 3.0; Health: 13.62;  Old Health: 6.0; Default HP: 6.0
+[02:20:08] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 3.0; DamageFactor: 3.0; Health: 18.0;  Old Health: 6.0; Default HP: 6.0
+[02:20:08] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 3.0; DamageFactor: 3.0; Health: 24.5;  Old Health: 6.0; Default HP: 6.0
+[02:20:08] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 3.0; DamageFactor: 3.0; Health: 92.62;  Old Health: 40.0; Default HP: 40.0
+[02:20:09] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 3.0; DamageFactor: 3.0; Health: 58.82;  Old Health: 20.0; Default HP: 20.0
+[02:20:09] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 3.0; DamageFactor: 3.0; Health: 50.31;  Old Health: 12.0; Default HP: 12.0
+[02:20:13] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:20:14] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 42.43;  Old Health: 12.0; Default HP: 12.0
+[02:20:17] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 53.94;  Old Health: 20.0; Default HP: 20.0
+[02:20:18] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 17.4;  Old Health: 6.0; Default HP: 6.0
+[02:20:19] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 19.63;  Old Health: 6.0; Default HP: 6.0
+[02:20:19] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 38.51;  Old Health: 16.0; Default HP: 16.0
+[02:20:19] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 47.22;  Old Health: 16.0; Default HP: 16.0
+[02:20:19] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.9; DamageFactor: 2.9; Health: 85.76;  Old Health: 40.0; Default HP: 40.0
+[02:20:19] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.9; DamageFactor: 2.9; Health: 116.0;  Old Health: 40.0; Default HP: 40.0
+[02:20:20] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 66.52;  Old Health: 20.0; Default HP: 20.0
+[02:20:20] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.91; DamageFactor: 2.91; Health: 39.99;  Old Health: 20.0; Default HP: 20.0
+[02:20:21] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:21] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 45.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:21] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 63.38;  Old Health: 20.0; Default HP: 20.0
+[02:20:22] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.81; DamageFactor: 2.81; Health: 46.61;  Old Health: 20.0; Default HP: 20.0
+[02:20:22] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.81; DamageFactor: 2.81; Health: 33.72;  Old Health: 12.0; Default HP: 12.0
+[02:20:24] [Server thread/INFO]: [STDOUT]: minecraft:horse; HealthFactor: 2.7; DamageFactor: 2.7; Health: 167.93;  Old Health: 53.0; Default HP: 53.0
+[02:20:24] [Server thread/INFO]: [STDOUT]: minecraft:husk; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:25] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 33.599999999999994;  Old Health: 12.0; Default HP: 12.0
+[02:20:25] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 26.08;  Old Health: 10.0; Default HP: 10.0
+[02:20:25] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:20:25] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:20:25] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:20:25] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:25] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.81; DamageFactor: 2.81; Health: 37.83;  Old Health: 20.0; Default HP: 20.0
+[02:20:26] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 15.29;  Old Health: 6.0; Default HP: 6.0
+[02:20:28] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 3.0; DamageFactor: 3.0; Health: 83.68;  Old Health: 20.0; Default HP: 20.0
+[02:20:28] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.91; DamageFactor: 2.91; Health: 50.95;  Old Health: 20.0; Default HP: 20.0
+[02:20:28] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.8; DamageFactor: 2.8; Health: 41.08;  Old Health: 16.0; Default HP: 16.0
+[02:20:29] [Server thread/INFO]: [STDOUT]: minecraft:pillager; HealthFactor: 2.71; DamageFactor: 2.71; Health: 65.03999999999999;  Old Health: 24.0; Default HP: 24.0
+[02:20:29] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.81; DamageFactor: 2.81; Health: 56.2;  Old Health: 20.0; Default HP: 20.0
+[02:20:29] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.81; DamageFactor: 2.81; Health: 44.96;  Old Health: 16.0; Default HP: 16.0
+[02:20:30] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.91; DamageFactor: 2.91; Health: 14.51;  Old Health: 6.0; Default HP: 6.0
+[02:20:30] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.91; DamageFactor: 2.91; Health: 17.46;  Old Health: 6.0; Default HP: 6.0
+[02:20:30] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.91; DamageFactor: 2.91; Health: 17.46;  Old Health: 6.0; Default HP: 6.0
+[02:20:30] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.91; DamageFactor: 2.91; Health: 17.46;  Old Health: 6.0; Default HP: 6.0
+[02:20:31] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:31] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:32] [Server thread/INFO]: Mxrtinzzkw was slain by Husk
+[02:20:35] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:35] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:37] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 49.94;  Old Health: 20.0; Default HP: 20.0
+[02:20:37] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:40] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.9; DamageFactor: 2.9; Health: 29.0;  Old Health: 10.0; Default HP: 10.0
+[02:20:40] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 42.28;  Old Health: 20.0; Default HP: 20.0
+[02:20:42] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.7; DamageFactor: 2.7; Health: 43.2;  Old Health: 16.0; Default HP: 16.0
+[02:20:42] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.7; DamageFactor: 2.7; Health: 51.98;  Old Health: 16.0; Default HP: 16.0
+[02:20:42] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.7; DamageFactor: 2.7; Health: 53.79;  Old Health: 16.0; Default HP: 16.0
+[02:20:46] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:46] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:46] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:47] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 37.2;  Old Health: 10.0; Default HP: 10.0
+[02:20:47] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:20:47] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:20:47] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 27.75;  Old Health: 10.0; Default HP: 10.0
+[02:20:47] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.81; DamageFactor: 2.81; Health: 34.1;  Old Health: 10.0; Default HP: 10.0
+[02:20:51] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:52] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:20:52] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:20:52] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:20:52] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 36.55;  Old Health: 10.0; Default HP: 10.0
+[02:20:52] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:54] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 50.8;  Old Health: 20.0; Default HP: 20.0
+[02:20:54] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.7; DamageFactor: 2.7; Health: 42.15;  Old Health: 12.0; Default HP: 12.0
+[02:20:54] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:54] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.81; DamageFactor: 2.81; Health: 56.2;  Old Health: 20.0; Default HP: 20.0
+[02:20:56] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:57] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 56.58;  Old Health: 20.0; Default HP: 20.0
+[02:20:57] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 64.26;  Old Health: 20.0; Default HP: 20.0
+[02:20:57] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:57] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:58] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:58] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.81; DamageFactor: 2.81; Health: 67.59;  Old Health: 20.0; Default HP: 20.0
+[02:20:58] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.81; DamageFactor: 2.81; Health: 56.2;  Old Health: 20.0; Default HP: 20.0
+[02:20:58] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 3.0; DamageFactor: 3.0; Health: 81.8;  Old Health: 20.0; Default HP: 20.0
+[02:20:58] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 3.0; DamageFactor: 3.0; Health: 60.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:58] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:20:58] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 41.89;  Old Health: 16.0; Default HP: 16.0
+[02:20:58] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 29.66;  Old Health: 16.0; Default HP: 16.0
+[02:20:58] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.81; DamageFactor: 2.81; Health: 11.32;  Old Health: 6.0; Default HP: 6.0
+[02:20:59] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 46.4;  Old Health: 16.0; Default HP: 16.0
+[02:20:59] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:00] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 57.47;  Old Health: 20.0; Default HP: 20.0
+[02:21:00] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:00] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:00] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 3.0; DamageFactor: 3.0; Health: 18.0;  Old Health: 6.0; Default HP: 6.0
+[02:21:00] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 3.0; DamageFactor: 3.0; Health: 18.0;  Old Health: 6.0; Default HP: 6.0
+[02:21:00] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 3.0; DamageFactor: 3.0; Health: 25.15;  Old Health: 6.0; Default HP: 6.0
+[02:21:05] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 3.0; DamageFactor: 3.0; Health: 23.17;  Old Health: 6.0; Default HP: 6.0
+[02:21:05] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.8; DamageFactor: 2.8; Health: 16.799999999999997;  Old Health: 6.0; Default HP: 6.0
+[02:21:06] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 16.200000000000003;  Old Health: 6.0; Default HP: 6.0
+[02:21:06] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 16.200000000000003;  Old Health: 6.0; Default HP: 6.0
+[02:21:06] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 16.200000000000003;  Old Health: 6.0; Default HP: 6.0
+[02:21:07] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.81; DamageFactor: 2.81; Health: 56.2;  Old Health: 20.0; Default HP: 20.0
+[02:21:08] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 3.0; DamageFactor: 3.0; Health: 43.01;  Old Health: 20.0; Default HP: 20.0
+[02:21:09] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 66.21;  Old Health: 20.0; Default HP: 20.0
+[02:21:09] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 55.77;  Old Health: 20.0; Default HP: 20.0
+[02:21:10] [Server thread/INFO]: [STDOUT]: minecraft:pillager; HealthFactor: 2.71; DamageFactor: 2.71; Health: 56.39;  Old Health: 24.0; Default HP: 24.0
+[02:21:12] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:13] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:13] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.81; DamageFactor: 2.81; Health: 59.63;  Old Health: 20.0; Default HP: 20.0
+[02:21:14] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 3.0; DamageFactor: 3.0; Health: 48.0;  Old Health: 16.0; Default HP: 16.0
+[02:21:14] [Server thread/INFO]: [STDOUT]: minecraft:witch; HealthFactor: 3.0; DamageFactor: 3.0; Health: 78.0;  Old Health: 26.0; Default HP: 26.0
+[02:21:15] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.9; DamageFactor: 2.9; Health: 16.35;  Old Health: 6.0; Default HP: 6.0
+[02:21:15] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 52.07;  Old Health: 20.0; Default HP: 20.0
+[02:21:15] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.81; DamageFactor: 2.81; Health: 44.96;  Old Health: 16.0; Default HP: 16.0
+[02:21:15] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:15] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:15] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:17] [Server thread/INFO]: [STDOUT]: minecraft:pillager; HealthFactor: 2.71; DamageFactor: 2.71; Health: 65.03999999999999;  Old Health: 24.0; Default HP: 24.0
+[02:21:17] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.81; DamageFactor: 2.81; Health: 50.39;  Old Health: 16.0; Default HP: 16.0
+[02:21:17] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:21:17] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 18.31;  Old Health: 10.0; Default HP: 10.0
+[02:21:17] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:21:17] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 21.95;  Old Health: 10.0; Default HP: 10.0
+[02:21:17] [Server thread/INFO]: [STDOUT]: minecraft:pillager; HealthFactor: 2.71; DamageFactor: 2.71; Health: 65.03999999999999;  Old Health: 24.0; Default HP: 24.0
+[02:21:18] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:18] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:18] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 39.66;  Old Health: 20.0; Default HP: 20.0
+[02:21:18] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 34.8;  Old Health: 12.0; Default HP: 12.0
+[02:21:19] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 20.19;  Old Health: 10.0; Default HP: 10.0
+[02:21:19] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 28.0;  Old Health: 10.0; Default HP: 10.0
+[02:21:19] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 29.43;  Old Health: 10.0; Default HP: 10.0
+[02:21:19] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 2.8; DamageFactor: 2.8; Health: 26.35;  Old Health: 10.0; Default HP: 10.0
+[02:21:19] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 3.0; DamageFactor: 3.0; Health: 48.0;  Old Health: 16.0; Default HP: 16.0
+[02:21:19] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:19] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 59.01;  Old Health: 20.0; Default HP: 20.0
+[02:21:19] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:19] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:19] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 46.4;  Old Health: 16.0; Default HP: 16.0
+[02:21:19] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.81; DamageFactor: 2.81; Health: 16.86;  Old Health: 6.0; Default HP: 6.0
+[02:21:20] [Server thread/INFO]: Mxrtinzzkw claimed a grave belonging to Mxrtinzzkw at 124, 67, 118, minecraft:overworld
+[02:21:21] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.7; DamageFactor: 2.7; Health: 18.27;  Old Health: 6.0; Default HP: 6.0
+[02:21:22] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 46.4;  Old Health: 16.0; Default HP: 16.0
+[02:21:23] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:23] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 2.9; DamageFactor: 2.9; Health: 21.52;  Old Health: 12.0; Default HP: 12.0
+[02:21:23] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.81; DamageFactor: 2.81; Health: 52.88;  Old Health: 20.0; Default HP: 20.0
+[02:21:23] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 55.07;  Old Health: 20.0; Default HP: 20.0
+[02:21:23] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:24] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.71; DamageFactor: 2.71; Health: 48.91;  Old Health: 20.0; Default HP: 20.0
+[02:21:24] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:24] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.7; DamageFactor: 2.7; Health: 43.35;  Old Health: 20.0; Default HP: 20.0
+[02:21:24] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.81; DamageFactor: 2.81; Health: 16.86;  Old Health: 6.0; Default HP: 6.0
+[02:21:24] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 2.81; DamageFactor: 2.81; Health: 16.86;  Old Health: 6.0; Default HP: 6.0
+[02:21:33] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:21:33] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:21:33] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:21:33] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 2.7; DamageFactor: 2.7; Health: 27.0;  Old Health: 10.0; Default HP: 10.0
+[02:21:48] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:48] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:51] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:51] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.7; DamageFactor: 2.7; Health: 54.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:52] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:52] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 40.0; Default HP: 20.0
+[02:21:52] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.9; DamageFactor: 2.9; Health: 39.69;  Old Health: 20.0; Default HP: 20.0
+[02:21:52] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.9; DamageFactor: 2.9; Health: 58.0;  Old Health: 20.0; Default HP: 20.0
+[02:21:58] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 60.06;  Old Health: 20.0; Default HP: 20.0
+[02:21:58] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 55.5;  Old Health: 20.0; Default HP: 20.0
+[02:21:58] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.8; DamageFactor: 2.8; Health: 56.0;  Old Health: 20.0; Default HP: 20.0
