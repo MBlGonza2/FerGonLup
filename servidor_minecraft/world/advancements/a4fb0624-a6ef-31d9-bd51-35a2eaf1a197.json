@@ -6407,6 +6407,18 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-07-04 02:28:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-04 02:20:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-07-04 01:44:33 +0000"
@@ -6419,9 +6431,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_kebab_slimeapple": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:25:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-07-04 00:37:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_kebab_spider_eye": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:25:13 +0000"
     },
     "done": true
   },
@@ -6456,9 +6480,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-04 02:20:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-07-04 01:55:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/soup_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-07-04 02:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-07-04 02:20:25 +0000"
     },
     "done": true
   },
@@ -6474,11 +6516,35 @@
     },
     "done": true
   },
+  "frightsdelight:main/craft_bone_shard": {
+    "criteria": {
+      "has_bone_shard": "2025-07-04 02:25:13 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/cooked_calamari_from_smoking": {
     "criteria": {
       "has_calamari": "2025-07-04 00:21:13 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/cooking/web_on_stick": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:25:13 +0000"
+    },
+    "done": true
+  },
+  "frightsdelight:recipes/building_blocks/web_crate": {
+    "criteria": {
+      "has_cobweb": "2025-07-04 02:25:57 +0000"
+    },
+    "done": true
+  },
+  "frightsdelight:main/frd_master": {
+    "criteria": {
+      "has_web_on_stick": "2025-07-04 02:26:15 +0000"
+    },
+    "done": false
   },
   "handcrafted:recipes/misc/brown_sheet": {
     "criteria": {
@@ -6492,9 +6558,21 @@
     },
     "done": true
   },
+  "moredelight:recipes/food/toast_with_honey": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-04 02:39:26 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/strawberry_bag": {
     "criteria": {
       "has_strawberry": "2025-07-04 02:05:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_kebab_slime": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:25:13 +0000"
     },
     "done": true
   },
@@ -6516,6 +6594,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-04 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-04 02:28:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-07-04 01:22:03 +0000"
@@ -6534,6 +6624,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-04 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-04 02:39:26 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/deku_leaf": {
     "criteria": {
       "has_paragliders": "2025-07-04 00:28:03 +0000"
@@ -6546,9 +6648,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_kebab_ghast_tear": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:25:13 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/combat/leaf_leggings": {
     "criteria": {
       "has_leaves": "2025-07-04 02:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-07-04 02:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-04 02:28:28 +0000"
     },
     "done": true
   },
@@ -6561,6 +6681,12 @@
   "moredelight:main/get_cooked_rice_with": {
     "criteria": {
       "cooked_rice_with_beef": "2025-07-04 00:31:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_kebab_wither_berry": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:25:13 +0000"
     },
     "done": true
   },
@@ -6609,6 +6735,12 @@
   "handcrafted:recipes/misc/brown_cushion": {
     "criteria": {
       "has_brown_cushion": "2025-07-04 01:48:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_kebab_soul_berry": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:25:13 +0000"
     },
     "done": true
   },

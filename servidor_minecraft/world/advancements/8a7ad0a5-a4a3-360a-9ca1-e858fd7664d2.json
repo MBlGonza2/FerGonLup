@@ -673,9 +673,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-07-04 02:37:25 +0000",
       "minecraft:taiga": "2025-07-04 01:59:19 +0000",
       "minecraft:frozen_river": "2025-07-04 02:01:18 +0000",
       "minecraft:cherry_grove": "2025-07-02 00:44:37 +0000",
+      "minecraft:beach": "2025-07-04 02:36:53 +0000",
       "minecraft:river": "2025-07-02 00:52:09 +0000",
       "minecraft:dripstone_caves": "2025-07-02 01:27:55 +0000",
       "minecraft:snowy_taiga": "2025-07-04 02:02:50 +0000",
@@ -7525,6 +7527,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-07-04 02:27:48 +0000"
+    },
+    "done": false
+  },
   "reinfchest:recipes/decorations/gold_chest": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 00:20:01 +0000"
@@ -7609,6 +7617,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_kebab_slimeapple": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:34:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-07-04 02:17:52 +0000"
@@ -7642,6 +7656,12 @@
   "toughasnails:recipes/tools/empty_diamond_canteen": {
     "criteria": {
       "has_diamond": "2025-07-03 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_kebab_spider_eye": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:34:50 +0000"
     },
     "done": true
   },
@@ -7729,6 +7749,12 @@
     },
     "done": true
   },
+  "frightsdelight:main/craft_bone_shard": {
+    "criteria": {
+      "has_bone_shard": "2025-07-04 02:34:50 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/cooked_calamari_from_smoking": {
     "criteria": {
       "has_calamari": "2025-07-03 23:48:11 +0000"
@@ -7746,6 +7772,12 @@
       "has_diamond": "2025-07-03 23:14:07 +0000"
     },
     "done": true
+  },
+  "frightsdelight:main/frd_master": {
+    "criteria": {
+      "has_web_on_stick": "2025-07-04 02:26:51 +0000"
+    },
+    "done": false
   },
   "minecraft:story/form_obsidian": {
     "criteria": {
@@ -7768,6 +7800,12 @@
   "cratedelight:recipes/building_blocks/red_mushroom_crate": {
     "criteria": {
       "has_red_mushroom": "2025-07-04 01:24:26 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/onion_bag": {
+    "criteria": {
+      "has_onion": "2025-07-04 02:38:21 +0000"
     },
     "done": true
   },
@@ -7837,6 +7875,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-04 02:27:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-07-03 23:16:01 +0000"
@@ -7870,6 +7914,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-07-04 02:18:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:37:02 +0000"
     },
     "done": true
   },
@@ -7909,6 +7959,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_kebab_ghast_tear": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:34:50 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/combat/leaf_leggings": {
     "criteria": {
       "has_leaves": "2025-07-04 00:14:47 +0000"
@@ -7945,6 +8001,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-04 02:27:47 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/cooked_calamari_from_campfire_cooking": {
     "criteria": {
       "has_calamari": "2025-07-03 23:48:11 +0000"
@@ -7954,6 +8016,12 @@
   "moredelight:main/get_cooked_rice_with": {
     "criteria": {
       "cooked_rice_with_beef": "2025-07-04 00:31:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_kebab_wither_berry": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:34:50 +0000"
     },
     "done": true
   },
@@ -7999,6 +8067,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-07-04 02:37:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 00:20:01 +0000"
@@ -8014,6 +8088,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-07-03 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_kebab_soul_berry": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:34:50 +0000"
     },
     "done": true
   },

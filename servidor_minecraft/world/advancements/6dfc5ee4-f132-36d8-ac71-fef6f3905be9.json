@@ -179,6 +179,18 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-04 02:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 02:22:07 +0000"
+    },
+    "done": true
+  },
   "betterfurnacesreforged:recipes/advanced_ore_processing_upgrade": {
     "criteria": {
       "has_ingredient": "2025-07-04 02:10:57 +0000"
@@ -245,6 +257,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_kebab_slimeapple": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:27:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
     "criteria": {
       "has_planks": "2025-07-04 02:19:17 +0000"
@@ -254,6 +272,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-07-04 02:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-04 02:22:28 +0000"
     },
     "done": true
   },
@@ -281,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 02:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-07-04 02:06:33 +0000"
@@ -305,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 02:22:07 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_drakkar": {
     "criteria": {
       "in_water": "2025-07-04 02:06:33 +0000"
@@ -314,6 +350,12 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-07-04 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_kebab_spider_eye": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:27:09 +0000"
     },
     "done": true
   },
@@ -485,6 +527,12 @@
     },
     "done": true
   },
+  "moredelight:combat/stone_knife": {
+    "criteria": {
+      "has_stone": "2025-07-04 02:22:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
     "criteria": {
       "has_spruce_planks": "2025-07-04 02:19:17 +0000"
@@ -551,6 +599,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 02:22:07 +0000"
+    },
+    "done": true
+  },
+  "frightsdelight:main/craft_bone_shard": {
+    "criteria": {
+      "has_bone_shard": "2025-07-04 02:27:09 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2025-07-04 02:06:33 +0000"
@@ -584,6 +644,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
     "criteria": {
       "has_stick": "2025-07-04 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/web_on_stick": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:27:09 +0000"
     },
     "done": true
   },
@@ -622,6 +688,12 @@
       "has_log": "2025-07-04 02:18:40 +0000"
     },
     "done": true
+  },
+  "frightsdelight:main/frd_master": {
+    "criteria": {
+      "has_web_on_stick": "2025-07-04 02:26:36 +0000"
+    },
+    "done": false
   },
   "betterfurnacesreforged:recipes/steel_forge": {
     "criteria": {
@@ -686,6 +758,12 @@
   "smallships:recipes/transportation/acacia_galley": {
     "criteria": {
       "in_water": "2025-07-04 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 02:22:07 +0000"
     },
     "done": true
   },
@@ -785,6 +863,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 02:22:07 +0000"
+    },
+    "done": true
+  },
   "betterfurnacesreforged:recipes/steel_upgrade": {
     "criteria": {
       "has_ingredient": "2025-07-04 02:10:57 +0000"
@@ -806,6 +890,12 @@
   "niftycarts:recipes/hand_cart": {
     "criteria": {
       "has_wheel": "2025-07-04 02:10:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 02:22:07 +0000"
     },
     "done": true
   },
@@ -863,6 +953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 02:22:07 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blaze_trophy": {
     "criteria": {
       "has_blaze_trophy": "2025-07-04 02:19:17 +0000"
@@ -872,6 +968,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
     "criteria": {
       "has_planks": "2025-07-04 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_kebab_slime": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:27:09 +0000"
     },
     "done": true
   },
@@ -941,6 +1043,12 @@
   "handcrafted:recipes/misc/wolf_trophy": {
     "criteria": {
       "has_wolf_trophy": "2025-07-04 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 02:22:07 +0000"
     },
     "done": true
   },
@@ -1031,6 +1139,24 @@
   "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
     "criteria": {
       "has_planks": "2025-07-04 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 02:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 02:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 02:22:07 +0000"
     },
     "done": true
   },
@@ -1133,6 +1259,12 @@
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2025-07-04 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 02:22:07 +0000"
     },
     "done": true
   },
@@ -1274,6 +1406,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-04 02:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-07-04 02:06:33 +0000"
@@ -1376,6 +1514,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_kebab_ghast_tear": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:27:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
     "criteria": {
       "has_planks": "2025-07-04 02:19:17 +0000"
@@ -1397,6 +1541,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-07-04 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-07-04 02:22:22 +0000"
     },
     "done": true
   },
@@ -1559,6 +1709,18 @@
   "supplementaries:recipes/flags/flag_cyan": {
     "criteria": {
       "has_stick": "2025-07-04 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-04 02:22:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_kebab_wither_berry": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:27:09 +0000"
     },
     "done": true
   },
@@ -1766,6 +1928,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dripstone_caves": "2025-07-04 02:30:19 +0000"
+    },
+    "done": false
+  },
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2025-07-04 02:19:17 +0000"
@@ -1793,6 +1961,12 @@
   "handcrafted:recipes/misc/spruce_cupboard": {
     "criteria": {
       "has_spruce_cupboard": "2025-07-04 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 02:22:07 +0000"
     },
     "done": true
   },
@@ -1829,6 +2003,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
     "criteria": {
       "has_stick": "2025-07-04 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-04 02:22:07 +0000"
     },
     "done": true
   },
@@ -1889,6 +2069,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-07-04 02:19:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_kebab_soul_berry": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:27:09 +0000"
     },
     "done": true
   },
