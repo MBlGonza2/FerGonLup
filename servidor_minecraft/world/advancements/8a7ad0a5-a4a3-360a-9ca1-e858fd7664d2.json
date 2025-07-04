@@ -7500,9 +7500,21 @@
     },
     "done": true
   },
+  "overweight_farming:recipes/overweight_golden_apple_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-04 03:40:41 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/tools/golden_machete": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-04 03:40:41 +0000"
     },
     "done": true
   },
@@ -7818,6 +7830,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-07-04 03:40:41 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/cooked_calamari_from_smoking": {
     "criteria": {
       "has_calamari": "2025-07-03 23:48:11 +0000"
@@ -7974,6 +7992,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-07-04 03:40:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
     "criteria": {
       "cooked_salmon_slice": "2025-07-04 00:11:00 +0000"
@@ -8025,6 +8049,12 @@
   "mcwlights:recipes/gold_stuff": {
     "criteria": {
       "has_wood": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-07-04 03:40:41 +0000"
     },
     "done": true
   },
@@ -8193,6 +8223,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-04 03:39:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-07-04 03:40:41 +0000"
     },
     "done": true
   },

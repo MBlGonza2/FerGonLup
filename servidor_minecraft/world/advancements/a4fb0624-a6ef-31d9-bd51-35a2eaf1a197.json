@@ -6631,6 +6631,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-07-04 03:41:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-07-04 01:48:30 +0000"
@@ -6850,6 +6856,12 @@
   "farmersdelight:recipes/cooking/bone_kebab_soul_berry": {
     "criteria": {
       "has_any_ingredient": "2025-07-04 02:25:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2025-07-04 03:48:12 +0000"
     },
     "done": true
   },
