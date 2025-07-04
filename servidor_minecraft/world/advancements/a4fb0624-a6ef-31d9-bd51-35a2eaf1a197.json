@@ -6387,5 +6387,29 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/cooked_calamari": {
+    "criteria": {
+      "has_calamari": "2025-07-04 00:21:13 +0000"
+    },
+    "done": true
+  },
+  "frightsdelight:recipes/building_blocks/poisonous_potato_crate": {
+    "criteria": {
+      "has_poisonous_potato": "2025-07-04 00:17:26 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cooked_calamari_from_smoking": {
+    "criteria": {
+      "has_calamari": "2025-07-04 00:21:13 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cooked_calamari_from_campfire_cooking": {
+    "criteria": {
+      "has_calamari": "2025-07-04 00:21:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -4748,6 +4748,7 @@
       "sugar_cane": "2025-07-02 04:39:53 +0000",
       "potato": "2025-07-02 04:45:12 +0000",
       "wheat": "2025-07-02 04:06:05 +0000",
+      "pumpkin": "2025-07-04 00:23:16 +0000",
       "carrot": "2025-07-02 04:46:40 +0000"
     },
     "done": false
@@ -7489,6 +7490,24 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/tools/golden_machete": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/combat/leaf_helmet": {
     "criteria": {
       "has_leaves": "2025-07-04 00:14:47 +0000"
@@ -7498,6 +7517,12 @@
   "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
     "criteria": {
       "cooked_cod_slice": "2025-07-04 00:11:00 +0000"
+    },
+    "done": true
+  },
+  "reinfchest:recipes/decorations/gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
     },
     "done": true
   },
@@ -7513,9 +7538,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-07-03 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
     },
     "done": true
   },
@@ -7528,6 +7571,12 @@
   "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
     "criteria": {
       "cooked_salmon_slice": "2025-07-04 00:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
     },
     "done": true
   },
@@ -7549,6 +7598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
   "reinfchest:recipes/decorations/diamond_chest": {
     "criteria": {
       "has_diamond": "2025-07-03 23:14:07 +0000"
@@ -7558,6 +7613,12 @@
   "toughasnails:recipes/tools/empty_diamond_canteen": {
     "criteria": {
       "has_diamond": "2025-07-03 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
     },
     "done": true
   },
@@ -7582,6 +7643,12 @@
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-07-04 00:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
     },
     "done": true
   },
@@ -7627,6 +7694,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-07-04 00:11:00 +0000"
@@ -7657,6 +7736,12 @@
     },
     "done": true
   },
+  "reinfbarrel:recipes/decorations/gold_barrel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
     "criteria": {
       "cooked_salmon_slice": "2025-07-04 00:11:00 +0000"
@@ -7669,9 +7754,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/globe_sepia": {
     "criteria": {
       "has_antique_ink": "2025-07-03 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/gold_stuff": {
+    "criteria": {
+      "has_wood": "2025-07-04 00:20:01 +0000"
     },
     "done": true
   },
@@ -7717,6 +7820,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/tools/empty_gold_canteen": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_nugget": "2025-07-03 23:16:01 +0000"
@@ -7759,6 +7868,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-07-03 23:14:07 +0000"
@@ -7768,6 +7889,12 @@
   "moredelight:recipes/cooking/creamy_pasta_with_ham": {
     "criteria": {
       "has_any_ingredient": "2025-07-04 00:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-04 00:20:01 +0000"
     },
     "done": true
   },
