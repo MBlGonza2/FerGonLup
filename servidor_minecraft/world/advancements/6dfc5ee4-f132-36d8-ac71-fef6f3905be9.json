@@ -2134,13 +2134,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:dripstone_caves": "2025-07-04 02:30:19 +0000"
+      "minecraft:dripstone_caves": "2025-07-04 02:30:19 +0000",
+      "minecraft:plains": "2025-07-04 03:15:17 +0000"
     },
     "done": false
   },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-07-04 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-04 03:18:21 +0000"
     },
     "done": true
   },
@@ -2180,9 +2187,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-04 03:12:56 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
     "criteria": {
       "has_string": "2025-07-04 03:00:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-07-04 03:18:21 +0000"
     },
     "done": true
   },
@@ -2216,6 +2235,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-07-04 03:13:29 +0000"
+    },
+    "done": true
+  },
   "reinfchest:recipes/decorations/copper_chest": {
     "criteria": {
       "has_chest": "2025-07-04 03:00:44 +0000"
@@ -2234,9 +2259,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-07-04 03:14:29 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-07-04 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-04 03:12:56 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/fuel_verifier": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 03:13:10 +0000"
     },
     "done": true
   },
@@ -2273,6 +2316,18 @@
   "frightsdelight:main/root": {
     "criteria": {
       "has_monster_drop": "2025-07-04 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-07-04 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-07-04 03:13:29 +0000"
     },
     "done": true
   },
@@ -2348,6 +2403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-07-04 03:18:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-07-04 03:00:53 +0000"
@@ -2396,15 +2457,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-07-04 03:13:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/wrench": {
     "criteria": {
       "has_leather": "2025-07-04 02:59:45 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-07-04 03:14:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_string": "2025-07-04 03:00:53 +0000"
+    },
+    "done": true
+  },
+  "betterfurnacesreforged:recipes/fuel_efficiency_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/seasonal_compendium": {
+    "criteria": {
+      "has_sapling": "2025-07-04 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-07-04 03:18:21 +0000"
     },
     "done": true
   },
@@ -2453,6 +2544,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-07-04 03:00:53 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/torches": {
+    "criteria": {
+      "has_wood": "2025-07-04 03:13:10 +0000"
     },
     "done": true
   },

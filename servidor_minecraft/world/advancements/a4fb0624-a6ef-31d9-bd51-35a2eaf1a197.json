@@ -4598,6 +4598,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-07-04 03:11:19 +0000",
       "glow_berries": "2025-07-02 04:22:15 +0000",
       "onion": "2025-07-02 04:18:42 +0000",
       "rice": "2025-07-02 20:19:43 +0000",
@@ -6437,6 +6438,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-07-04 03:17:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_kebab_slimeapple": {
     "criteria": {
       "has_any_ingredient": "2025-07-04 02:25:13 +0000"
@@ -6470,6 +6477,12 @@
   "paraglider:paraglider": {
     "criteria": {
       "paraglider": "2025-07-04 00:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2025-07-04 03:17:40 +0000"
     },
     "done": true
   },
@@ -6588,6 +6601,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-07-04 03:17:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_kebab_slime": {
     "criteria": {
       "has_any_ingredient": "2025-07-04 02:25:13 +0000"
@@ -6627,6 +6646,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-04 02:28:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-07-04 03:17:02 +0000"
     },
     "done": true
   },
