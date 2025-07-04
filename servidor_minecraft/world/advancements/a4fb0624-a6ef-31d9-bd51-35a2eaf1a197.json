@@ -6654,6 +6654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-04 02:45:47 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/combat/leaf_leggings": {
     "criteria": {
       "has_leaves": "2025-07-04 02:05:03 +0000"
@@ -6666,6 +6672,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-07-04 02:46:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-07-04 02:28:28 +0000"
@@ -6675,6 +6687,12 @@
   "rusticdelight:recipes/food/cooked_calamari_from_campfire_cooking": {
     "criteria": {
       "has_calamari": "2025-07-04 00:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-04 02:45:47 +0000"
     },
     "done": true
   },

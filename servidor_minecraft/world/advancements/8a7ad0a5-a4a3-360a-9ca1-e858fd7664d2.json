@@ -7557,6 +7557,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/misc/cotton_seeds_bag_from_cotton_seeds": {
+    "criteria": {
+      "has_cotton_seeds": "2025-07-04 02:42:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 00:20:01 +0000"
@@ -7707,6 +7713,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/misc/cotton_boll_crate_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-07-04 02:42:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 00:20:01 +0000"
@@ -7839,6 +7851,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/misc/string_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-07-04 02:42:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-07-03 23:14:07 +0000"
@@ -7884,6 +7902,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-07-03 23:16:01 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/paper_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-07-04 02:42:54 +0000"
     },
     "done": true
   },
@@ -8007,6 +8031,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/misc/canvas_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-07-04 02:42:54 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/cooked_calamari_from_campfire_cooking": {
     "criteria": {
       "has_calamari": "2025-07-03 23:48:11 +0000"
@@ -8022,6 +8052,12 @@
   "farmersdelight:recipes/cooking/bone_kebab_wither_berry": {
     "criteria": {
       "has_any_ingredient": "2025-07-04 02:34:50 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/cooking_oil": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:42:54 +0000"
     },
     "done": true
   },
