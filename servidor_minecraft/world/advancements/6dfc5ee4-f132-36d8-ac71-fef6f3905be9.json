@@ -2138,5 +2138,149 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-04 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/spatula": {
+    "criteria": {
+      "has_leather": "2025-07-04 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/cotton_seeds_bag_from_cotton_seeds": {
+    "criteria": {
+      "has_cotton_seeds": "2025-07-04 02:57:33 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/strawberry_chocolate": {
+    "criteria": {
+      "has_strawberry": "2025-07-04 02:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-04 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-07-04 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-07-04 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/frying_pan": {
+    "criteria": {
+      "has_leather": "2025-07-04 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-04 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "frightsdelight:main/root": {
+    "criteria": {
+      "has_monster_drop": "2025-07-04 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/onion_bag": {
+    "criteria": {
+      "has_onion": "2025-07-04 02:57:33 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/strawberry_bag": {
+    "criteria": {
+      "has_strawberry": "2025-07-04 02:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-04 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-04 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_leather_canteen": {
+    "criteria": {
+      "has_leather": "2025-07-04 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-07-04 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:57:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2025-07-04 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/knife": {
+    "criteria": {
+      "has_leather": "2025-07-04 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/wrench": {
+    "criteria": {
+      "has_leather": "2025-07-04 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-07-04 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/cooking_oil": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 02:57:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-07-04 02:57:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
