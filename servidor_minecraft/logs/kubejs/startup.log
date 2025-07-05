@@ -1,5 +1,5 @@
-[22:49:20] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
-[22:49:20] [INIT] Loaded plugins:
-[22:49:20] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
-[22:49:20] [INFO] Loaded script startup_scripts:no_vanilla_food.js in 0.051 s
-[22:49:20] [INFO] Loaded 1/1 KubeJS startup scripts in 0.295 s with 0 errors and 0 warnings
+[23:11:43] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
+[23:11:43] [INIT] Loaded plugins:
+[23:11:43] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[23:11:43] [INFO] Loaded script startup_scripts:no_vanilla_food.js in 0.05 s
+[23:11:43] [INFO] Loaded 1/1 KubeJS startup scripts in 0.253 s with 0 errors and 0 warnings
