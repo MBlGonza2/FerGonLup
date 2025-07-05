@@ -4752,6 +4752,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-07-05 23:39:12 +0000",
       "glow_berries": "2025-07-02 02:20:11 +0000",
       "onion": "2025-07-02 04:44:34 +0000",
       "tomato": "2025-07-04 04:27:43 +0000",
