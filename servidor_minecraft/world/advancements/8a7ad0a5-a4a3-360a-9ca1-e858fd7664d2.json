@@ -8547,6 +8547,12 @@
     },
     "done": true
   },
+  "moredelight:main/get_mashed_potatoes": {
+    "criteria": {
+      "mashed_potatoes": "2025-07-06 02:20:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/statue": {
     "criteria": {
       "has_clay": "2025-07-06 00:14:07 +0000"

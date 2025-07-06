@@ -7228,6 +7228,12 @@
     },
     "done": true
   },
+  "moredelight:main/get_mashed_potatoes": {
+    "criteria": {
+      "mashed_potatoes": "2025-07-06 02:19:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/statue": {
     "criteria": {
       "has_clay": "2025-07-06 01:08:38 +0000"
@@ -7339,6 +7345,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-07-06 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-06 02:20:37 +0000"
     },
     "done": true
   },
