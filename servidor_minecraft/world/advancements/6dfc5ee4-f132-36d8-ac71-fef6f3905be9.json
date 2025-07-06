@@ -2966,6 +2966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
@@ -2975,6 +2981,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_grill": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
     },
     "done": true
   },
@@ -2993,6 +3005,18 @@
   "refurbished_furniture:recipes/misc/constructing/birch_crate": {
     "criteria": {
       "has_birch_planks": "2025-07-06 00:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-06 00:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-06 00:42:15 +0000"
     },
     "done": true
   },
@@ -3035,6 +3059,12 @@
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-06 00:47:08 +0000"
     },
     "done": true
   },
@@ -3164,6 +3194,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 00:42:10 +0000"
+    },
+    "done": true
+  },
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
       "has_item": "2025-07-06 00:30:02 +0000"
@@ -3191,6 +3227,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_gray": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
     },
     "done": true
   },
@@ -3338,6 +3380,12 @@
     },
     "done": true
   },
+  "moredelight:recipes/cooking/diced_potatoes_with_egg_and_tomato": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 00:40:40 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/bread_knife": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
@@ -3356,6 +3404,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 00:40:40 +0000"
+    },
+    "done": true
+  },
   "reinfchest:recipes/decorations/iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
@@ -3371,6 +3425,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
     },
     "done": true
   },
@@ -3416,6 +3476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_bath": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
@@ -3425,6 +3491,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_grill": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
     },
     "done": true
   },
@@ -3470,6 +3542,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-07-06 00:40:40 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_cupboard": {
     "criteria": {
       "has_birch_cupboard": "2025-07-06 00:34:10 +0000"
@@ -3512,15 +3590,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-06 00:32:37 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-06 00:42:10 +0000"
     },
     "done": true
   },
@@ -3605,6 +3701,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
     },
     "done": true
   },
@@ -3776,6 +3878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-06 00:47:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_bath": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
@@ -3791,6 +3899,18 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-06 00:42:10 +0000"
     },
     "done": true
   },
@@ -3896,9 +4016,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/supply_cart": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
     },
     "done": true
   },
@@ -3944,15 +4076,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_fancy_bed": {
     "criteria": {
       "has_birch_fancy_bed": "2025-07-06 00:34:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_pillar_trim": {
     "criteria": {
       "has_birch_pillar_trim": "2025-07-06 00:34:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-07-06 00:40:40 +0000"
     },
     "done": true
   },
@@ -3968,9 +4118,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
     "criteria": {
       "has_birch_leaves": "2025-07-06 00:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
     },
     "done": true
   },
@@ -4013,6 +4175,12 @@
   "bakery:recipes/cobblestone_stove": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/tomato_sandwich": {
+    "criteria": {
+      "has_tomato": "2025-07-06 00:40:40 +0000"
     },
     "done": true
   },
@@ -4070,6 +4238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
@@ -4106,9 +4280,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-05 23:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-06 00:42:15 +0000"
     },
     "done": true
   },
@@ -4121,6 +4307,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
     "criteria": {
       "has_birch_planks": "2025-07-06 00:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
     },
     "done": true
   },
@@ -4166,6 +4358,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-06 00:42:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_bench": {
     "criteria": {
       "has_birch_bench": "2025-07-06 00:34:10 +0000"
@@ -4175,6 +4373,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-06 00:32:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 00:42:15 +0000"
     },
     "done": true
   },
@@ -4193,6 +4397,24 @@
   "handcrafted:recipes/misc/birch_drawer": {
     "criteria": {
       "has_birch_drawer": "2025-07-06 00:34:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-07-06 00:40:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 00:40:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-07-06 00:40:40 +0000"
     },
     "done": true
   },
@@ -4223,6 +4445,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:husk": "2025-07-05 23:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
     },
     "done": true
   },
@@ -4259,6 +4487,18 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-07-05 23:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-06 00:47:08 +0000"
     },
     "done": true
   },
@@ -4301,6 +4541,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/creamy_pasta_with_chicken_cuts": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 00:42:10 +0000"
     },
     "done": true
   },
