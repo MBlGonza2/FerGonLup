@@ -2972,6 +2972,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-07-06 00:21:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:husk": "2025-07-05 23:51:52 +0000"
@@ -2983,6 +2989,12 @@
       "has_mud": "2025-07-05 23:58:31 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "tomato": "2025-07-06 00:21:28 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
@@ -3023,6 +3035,12 @@
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "has_bamboo": "2025-07-05 23:57:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
+    "criteria": {
+      "has_birch_leaves": "2025-07-06 00:25:33 +0000"
     },
     "done": true
   },
