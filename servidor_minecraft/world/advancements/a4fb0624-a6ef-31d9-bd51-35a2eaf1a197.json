@@ -7333,6 +7333,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/cooking/stuffed_bell_pepper_green": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 03:27:03 +0000"
+    },
+    "done": true
+  },
   "storagedelight:recipes/decorations/birch_single_door_cabinet": {
     "criteria": {
       "has_birch_trapdoor": "2025-07-06 01:16:57 +0000"
@@ -7369,9 +7375,21 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/misc/bell_pepper_green_crate_from_bell_pepper_green": {
+    "criteria": {
+      "has_bell_pepper_green": "2025-07-06 03:27:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-07-06 01:44:51 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/roasted_bell_pepper_green_from_campfire_cooking": {
+    "criteria": {
+      "has_bell_pepper_green": "2025-07-06 03:27:03 +0000"
     },
     "done": true
   },
@@ -7402,6 +7420,12 @@
   "storagedelight:recipes/decorations/birch_drawer_with_door": {
     "criteria": {
       "has_birch_trapdoor": "2025-07-06 01:16:57 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/roasted_bell_pepper_green": {
+    "criteria": {
+      "has_bell_pepper_green": "2025-07-06 03:27:03 +0000"
     },
     "done": true
   },
@@ -7483,6 +7507,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/roasted_bell_pepper_green_from_smoking": {
+    "criteria": {
+      "has_bell_pepper_green": "2025-07-06 03:27:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-07-06 01:44:51 +0000"
@@ -7492,6 +7522,12 @@
   "supplementaries:recipes/strings": {
     "criteria": {
       "has_flax": "2025-07-06 01:24:52 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/green_dye_from_bell_pepper_green": {
+    "criteria": {
+      "has_bell_pepper_green": "2025-07-06 03:27:03 +0000"
     },
     "done": true
   },
