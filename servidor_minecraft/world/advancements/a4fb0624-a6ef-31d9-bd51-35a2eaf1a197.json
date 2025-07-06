@@ -7273,6 +7273,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-07-06 03:17:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bacon_sandwich": {
     "criteria": {
       "has_bacon": "2025-07-06 02:57:58 +0000"
@@ -7345,6 +7351,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-07-06 03:17:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/birch_cabinet": {
     "criteria": {
       "has_birch_trapdoor": "2025-07-06 01:16:57 +0000"
@@ -7360,6 +7372,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-07-06 01:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-07-06 03:18:22 +0000"
     },
     "done": true
   },
@@ -7450,6 +7468,12 @@
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_nugget": "2025-07-06 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-07-06 03:18:22 +0000"
     },
     "done": true
   },
