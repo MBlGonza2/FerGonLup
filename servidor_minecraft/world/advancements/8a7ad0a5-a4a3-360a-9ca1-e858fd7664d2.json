@@ -705,6 +705,7 @@
       "minecraft:pillager": "2025-07-02 03:22:15 +0000",
       "minecraft:skeleton": "2025-07-02 23:45:34 +0000",
       "minecraft:vindicator": "2025-07-02 04:02:49 +0000",
+      "minecraft:magma_cube": "2025-07-06 01:39:35 +0000",
       "minecraft:spider": "2025-07-02 23:48:26 +0000",
       "minecraft:slime": "2025-07-02 19:46:45 +0000",
       "minecraft:husk": "2025-07-02 00:47:21 +0000",
@@ -6185,6 +6186,7 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "shepherds_pie": "2025-07-02 20:49:00 +0000",
+      "mushroom_rice": "2025-07-06 01:43:30 +0000",
       "bone_broth": "2025-07-04 00:46:15 +0000",
       "stuffed_pumpkin": "2025-07-02 23:49:40 +0000",
       "roast_chicken": "2025-07-04 01:55:15 +0000",
@@ -8551,9 +8553,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-06 01:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-06 01:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-06 01:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-06 01:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-06 01:45:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-07-06 00:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-06 01:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-07-06 01:40:04 +0000"
     },
     "done": true
   },
@@ -8566,6 +8610,24 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-07-06 00:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-06 01:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-06 01:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-06 01:41:33 +0000"
     },
     "done": true
   },
