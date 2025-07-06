@@ -3134,6 +3134,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2025-07-06 00:50:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_toaster": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
@@ -3221,6 +3227,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_water_bucket": "2025-07-06 00:50:30 +0000"
     },
     "done": true
   },
@@ -3518,6 +3530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-06 00:58:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_grill": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
@@ -3581,6 +3599,12 @@
   "bakery:recipes/granite_stove": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/punch_spidereye_multiple": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 00:50:30 +0000"
     },
     "done": true
   },
@@ -3698,9 +3722,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-06 00:50:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/punch_ghasttear_multiple": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 00:50:30 +0000"
     },
     "done": true
   },
@@ -3719,6 +3755,18 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-06 00:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-06 00:58:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-07-06 00:50:30 +0000"
     },
     "done": true
   },
@@ -3839,6 +3887,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/punch_slimeapple_multiple": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 00:50:30 +0000"
     },
     "done": true
   },
@@ -3980,6 +4034,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 00:58:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-07-06 00:34:10 +0000"
@@ -4022,6 +4082,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/punch_cobweb_multiple": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 00:50:30 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/supply_cart": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
@@ -4058,9 +4124,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-06 00:58:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_basin": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 00:58:48 +0000"
     },
     "done": true
   },
@@ -4118,6 +4196,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_seagrass": {
+    "criteria": {
+      "has_seagrass": "2025-07-06 00:58:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
@@ -4154,6 +4238,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/wheat_seeds_from_grass": {
+    "criteria": {
+      "has_grass": "2025-07-06 00:58:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_brown": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
@@ -4175,6 +4265,12 @@
   "bakery:recipes/cobblestone_stove": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-07-06 00:50:30 +0000"
     },
     "done": true
   },
@@ -4280,6 +4376,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-07-06 00:50:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-06 00:46:54 +0000"
@@ -4319,6 +4421,12 @@
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_bench": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/punch_soul_berry_multiple": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 00:50:30 +0000"
     },
     "done": true
   },
