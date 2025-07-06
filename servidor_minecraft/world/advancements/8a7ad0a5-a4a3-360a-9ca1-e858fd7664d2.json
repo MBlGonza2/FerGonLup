@@ -8589,6 +8589,30 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/cherry_cabinet_with_glass_doors": {
+    "criteria": {
+      "has_cherry_trapdoor": "2025-07-06 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/small_cherry_drawers": {
+    "criteria": {
+      "has_cherry_trapdoor": "2025-07-06 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/cherry_drawer_with_door": {
+    "criteria": {
+      "has_cherry_trapdoor": "2025-07-06 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/cherry_drawer": {
+    "criteria": {
+      "has_cherry_trapdoor": "2025-07-06 01:55:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-07-06 01:41:33 +0000"
@@ -8598,6 +8622,24 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-07-06 01:40:04 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/glass_cherry_cabinet": {
+    "criteria": {
+      "has_cherry_trapdoor": "2025-07-06 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/cherry_single_door_cabinet": {
+    "criteria": {
+      "has_cherry_trapdoor": "2025-07-06 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-06 02:01:03 +0000"
     },
     "done": true
   },
@@ -8613,6 +8655,12 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/cherry_bookshelf_with_door": {
+    "criteria": {
+      "has_cherry_trapdoor": "2025-07-06 01:55:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-07-06 01:45:42 +0000"
@@ -8625,9 +8673,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/cherry_cabinet": {
+    "criteria": {
+      "has_cherry_trapdoor": "2025-07-06 01:55:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-07-06 01:41:33 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/cherry_drawer_with_books": {
+    "criteria": {
+      "has_cherry_trapdoor": "2025-07-06 01:55:29 +0000"
     },
     "done": true
   },
