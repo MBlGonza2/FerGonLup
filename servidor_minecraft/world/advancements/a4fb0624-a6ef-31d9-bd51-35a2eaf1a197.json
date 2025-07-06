@@ -22,6 +22,7 @@
       "minecraft:cherry_grove": "2025-07-02 00:28:02 +0000",
       "minecraft:river": "2025-07-02 00:27:27 +0000",
       "minecraft:dripstone_caves": "2025-07-02 02:28:30 +0000",
+      "minecraft:swamp": "2025-07-06 03:37:11 +0000",
       "minecraft:forest": "2025-07-02 00:28:04 +0000",
       "minecraft:plains": "2025-07-02 00:25:50 +0000"
     },
@@ -7324,6 +7325,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-07-06 01:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-06 03:39:54 +0000"
     },
     "done": true
   },
