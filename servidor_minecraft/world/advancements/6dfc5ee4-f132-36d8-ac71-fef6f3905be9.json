@@ -2649,6 +2649,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "mushroom_rice": "2025-07-06 01:09:38 +0000",
       "roast_chicken": "2025-07-04 03:43:56 +0000",
       "pasta_with_meatballs": "2025-07-04 04:35:22 +0000"
     },
@@ -3092,9 +3093,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-07-06 01:17:47 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_blue": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-06 01:17:47 +0000"
     },
     "done": true
   },
@@ -3119,6 +3132,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-07-06 01:17:47 +0000"
     },
     "done": true
   },
@@ -3278,6 +3297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-07-06 01:17:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_grill": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
@@ -3320,6 +3345,12 @@
     },
     "done": true
   },
+  "reinfchest:recipes/decorations/diamond_chest": {
+    "criteria": {
+      "has_diamond": "2025-07-06 01:17:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
@@ -3341,6 +3372,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_grill": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_diamond_canteen": {
+    "criteria": {
+      "has_diamond": "2025-07-06 01:17:47 +0000"
     },
     "done": true
   },
@@ -3413,6 +3450,18 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-07-06 00:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-07-06 01:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-07-06 01:17:47 +0000"
     },
     "done": true
   },
@@ -3494,6 +3543,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-06 01:16:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_bath": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
@@ -3503,6 +3558,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_grill": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "reinfbarrel:recipes/decorations/diamond_barrel": {
+    "criteria": {
+      "has_diamond": "2025-07-06 01:17:47 +0000"
     },
     "done": true
   },
@@ -3680,6 +3741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-06 01:17:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
@@ -3764,6 +3831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-07-06 01:17:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
       "has_ingredient": "2025-07-06 00:50:30 +0000"
@@ -3803,6 +3876,12 @@
   "handcrafted:recipes/misc/birch_corner_trim": {
     "criteria": {
       "has_birch_corner_trim": "2025-07-06 00:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-06 01:17:47 +0000"
     },
     "done": true
   },
@@ -3884,6 +3963,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-07-06 01:17:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
@@ -3920,6 +4005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-07-06 01:17:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
@@ -3929,6 +4020,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_fridge": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-07-06 01:17:44 +0000"
     },
     "done": true
   },
@@ -3947,6 +4044,12 @@
   "handcrafted:recipes/misc/birch_couch": {
     "criteria": {
       "has_birch_couch": "2025-07-06 00:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-06 01:17:44 +0000"
     },
     "done": true
   },
@@ -4262,6 +4365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-06 01:17:47 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/cobblestone_stove": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
@@ -4349,6 +4458,18 @@
   "bakery:recipes/iron_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/diamond_magnum_torch": {
+    "criteria": {
+      "has_diamond": "2025-07-06 01:17:47 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2025-07-06 01:17:47 +0000"
     },
     "done": true
   },
@@ -4550,6 +4671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-07-06 01:17:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:husk": "2025-07-05 23:51:52 +0000"
@@ -4619,6 +4746,12 @@
   "farm_and_charm:recipes/toolrack": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-07-06 01:17:47 +0000"
     },
     "done": true
   },

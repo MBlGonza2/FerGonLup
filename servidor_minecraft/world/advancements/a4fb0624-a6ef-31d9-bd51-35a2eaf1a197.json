@@ -7227,15 +7227,81 @@
     },
     "done": true
   },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_clay": "2025-07-06 01:08:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2025-07-06 00:14:06 +0000"
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/glass_birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-07-06 01:16:57 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/birch_cabinet_with_glass_doors": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-07-06 01:16:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
       "has_mud": "2025-07-06 00:37:09 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/birch_single_door_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-07-06 01:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-07-06 01:08:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-07-06 01:16:57 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/birch_drawer_with_door": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-07-06 01:16:57 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/birch_drawer": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-07-06 01:16:57 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/birch_bookshelf_with_door": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-07-06 01:16:57 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/birch_drawer_with_books": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-07-06 01:16:57 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/small_birch_drawers": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-07-06 01:16:57 +0000"
     },
     "done": true
   },
