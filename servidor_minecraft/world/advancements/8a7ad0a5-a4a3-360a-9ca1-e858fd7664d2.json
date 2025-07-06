@@ -6188,6 +6188,7 @@
       "bone_broth": "2025-07-04 00:46:15 +0000",
       "stuffed_pumpkin": "2025-07-02 23:49:40 +0000",
       "roast_chicken": "2025-07-04 01:55:15 +0000",
+      "honey_glazed_ham": "2025-07-06 00:12:58 +0000",
       "pasta_with_meatballs": "2025-07-06 00:00:58 +0000"
     },
     "done": false
@@ -8541,6 +8542,18 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-07-04 04:36:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_clay": "2025-07-06 00:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-07-06 00:14:07 +0000"
     },
     "done": true
   },
