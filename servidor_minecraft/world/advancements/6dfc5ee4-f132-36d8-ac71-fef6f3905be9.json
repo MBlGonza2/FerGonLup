@@ -5241,6 +5241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-06 04:39:11 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/combat/wool_helmet": {
     "criteria": {
       "has_wool": "2025-07-06 03:59:17 +0000"
@@ -5271,6 +5277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-06 04:39:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
     "criteria": {
       "has_jungle_planks": "2025-07-06 04:24:54 +0000"
@@ -5280,6 +5292,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_desk": {
     "criteria": {
       "has_jungle_planks": "2025-07-06 04:24:54 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/oak_cabinet_with_glass_doors": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-06 04:40:05 +0000"
     },
     "done": true
   },
@@ -5298,6 +5316,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_crate": {
     "criteria": {
       "has_jungle_planks": "2025-07-06 04:24:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flax_block": {
+    "criteria": {
+      "has_flax": "2025-07-06 04:40:08 +0000"
     },
     "done": true
   },
@@ -5331,6 +5355,12 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/oak_bookshelf_with_door": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-06 04:40:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-07-06 03:49:37 +0000"
@@ -5340,6 +5370,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-07-06 04:24:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-06 04:38:57 +0000"
     },
     "done": true
   },
@@ -5379,6 +5415,12 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/oak_drawer_with_door": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-06 04:40:05 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/combat/wool_leggings": {
     "criteria": {
       "has_wool": "2025-07-06 03:59:17 +0000"
@@ -5400,6 +5442,12 @@
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_gold_ingot": "2025-07-06 03:49:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-07-06 04:38:57 +0000"
     },
     "done": true
   },
@@ -5427,6 +5475,12 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/oak_single_door_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-06 04:40:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-07-06 03:49:37 +0000"
@@ -5442,6 +5496,12 @@
   "mcwlights:recipes/gold_stuff": {
     "criteria": {
       "has_wood": "2025-07-06 03:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-06 04:38:57 +0000"
     },
     "done": true
   },
@@ -5481,6 +5541,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-06 04:38:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-06 03:59:17 +0000"
@@ -5511,6 +5577,12 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/glass_oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-06 04:40:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-07-06 03:54:39 +0000"
@@ -5526,6 +5598,18 @@
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_ingot": "2025-07-06 03:49:37 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/small_oak_drawers": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-06 04:40:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-06 04:40:05 +0000"
     },
     "done": true
   },
@@ -5553,6 +5637,12 @@
     },
     "done": true
   },
+  "storagedelight:recipes/decorations/oak_drawer_with_books": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-06 04:40:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_couch": {
     "criteria": {
       "has_jungle_couch": "2025-07-06 04:24:54 +0000"
@@ -5577,6 +5667,24 @@
     },
     "done": true
   },
+  "supplementaries:recipes/strings": {
+    "criteria": {
+      "has_flax": "2025-07-06 04:40:08 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/oak_drawer": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-06 04:40:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-06 04:38:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
     "criteria": {
       "has_jungle_planks": "2025-07-06 04:24:54 +0000"
@@ -5589,15 +5697,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-07-06 04:38:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-07-06 03:49:37 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-07-06 04:40:08 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_counter": {
     "criteria": {
       "has_jungle_counter": "2025-07-06 04:24:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-07-06 04:38:57 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-07-06 04:38:57 +0000"
     },
     "done": true
   },
