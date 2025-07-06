@@ -7261,6 +7261,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/cooking/stuffed_bell_pepper_yellow": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 03:09:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-07-06 01:45:52 +0000"
@@ -7282,6 +7288,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-07-06 01:48:39 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/roasted_bell_pepper_yellow_from_smoking": {
+    "criteria": {
+      "has_bell_pepper_yellow": "2025-07-06 03:09:34 +0000"
     },
     "done": true
   },
@@ -7339,6 +7351,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/roasted_bell_pepper_yellow_from_campfire_cooking": {
+    "criteria": {
+      "has_bell_pepper_yellow": "2025-07-06 03:09:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-07-06 01:44:51 +0000"
@@ -7357,9 +7375,21 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/roasted_bell_pepper_yellow": {
+    "criteria": {
+      "has_bell_pepper_yellow": "2025-07-06 03:09:34 +0000"
+    },
+    "done": true
+  },
   "storagedelight:recipes/decorations/birch_drawer_with_door": {
     "criteria": {
       "has_birch_trapdoor": "2025-07-06 01:16:57 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/bell_pepper_yellow_crate_from_bell_pepper_yellow": {
+    "criteria": {
+      "has_bell_pepper_yellow": "2025-07-06 03:09:34 +0000"
     },
     "done": true
   },
@@ -7420,6 +7450,12 @@
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_nugget": "2025-07-06 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/yellow_dye_from_bell_pepper_yellow": {
+    "criteria": {
+      "has_bell_pepper_yellow": "2025-07-06 03:09:34 +0000"
     },
     "done": true
   },
