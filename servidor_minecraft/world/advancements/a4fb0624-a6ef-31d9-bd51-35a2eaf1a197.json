@@ -7316,6 +7316,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-06 04:49:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
     "criteria": {
       "cooked_bacon": "2025-07-06 02:57:16 +0000"
@@ -7364,9 +7370,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cat": "2025-07-06 04:49:30 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-07-06 03:17:51 +0000"
+    },
+    "done": true
+  },
+  "moredelight:main/get_diced_potatoes_with": {
+    "criteria": {
+      "diced_potatoes_with_chicken_cuts": "2025-07-06 04:42:59 +0000"
     },
     "done": true
   },
@@ -7463,6 +7481,12 @@
   "storagedelight:recipes/decorations/birch_bookshelf_with_door": {
     "criteria": {
       "has_birch_trapdoor": "2025-07-06 01:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-06 04:52:05 +0000"
     },
     "done": true
   },
